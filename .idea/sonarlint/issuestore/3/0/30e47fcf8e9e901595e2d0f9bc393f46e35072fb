@@ -1,0 +1,42 @@
+
+o
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ÖÊÊ
+J
+java:S1066d"/Merge this if statement with the enclosing one.(ŸÈš½ýÿÿÿÿ
+`
+java:S2259€"DA "NullPointerException" could be thrown; "choice" is nullable here.(šž®ºþÿÿÿÿ
+p	java:S115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³ÂÑ’
+U
+java:S1118+":Add a private constructor to hide the implicit public one.(Àü¹ƒÿÿÿÿÿ
+T
+java:S16595">Declare "y" and all following declarations on a separate line.(ÏÛ²Â
+h
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¦û¸º
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1659„">Declare "y" and all following declarations on a separate line.(ÏÛ²Â
+_
+java:S6355ž"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133Ÿ"5Do not forget to remove this deprecated code someday.(¢Æ×
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+_
+java:S6355‘"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133’"5Do not forget to remove this deprecated code someday.(óÿÍ»þÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(Ýòó±

@@ -1,0 +1,46 @@
+
+J
+java:S3740W"/Provide the parametrized type for this generic.(×½•Çşÿÿÿÿ
+J
+java:S3740W"/Provide the parametrized type for this generic.(×½•Çşÿÿÿÿ
+D
+java:S3740X"/Provide the parametrized type for this generic.(ı„áA
+D
+java:S3740X"/Provide the parametrized type for this generic.(ı„áA
+J
+java:S3740["/Provide the parametrized type for this generic.(ğĞÔÕúÿÿÿÿ
+J
+java:S3740["/Provide the parametrized type for this generic.(ğĞÔÕúÿÿÿÿ
+J
+java:S3740^"/Provide the parametrized type for this generic.(Í¼Æøÿÿÿÿÿ
+J
+java:S3740^"/Provide the parametrized type for this generic.(Í¼Æøÿÿÿÿÿ
+E
+java:S3740a"/Provide the parametrized type for this generic.(ó‘àÖ
+E
+java:S3740a"/Provide the parametrized type for this generic.(ó‘àÖ
+E
+java:S3740m"/Provide the parametrized type for this generic.(ôÖÔÕ
+J
+java:S3740y"/Provide the parametrized type for this generic.(ßÇİ¨ûÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(÷¶öŒıÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(Ù™·õùÿÿÿÿ
+F
+java:S3740Í"/Provide the parametrized type for this generic.(èÚÍâ
+…
+java:S1319m"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(ôÖÔÕ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+7
+java:S1170C"!Make this final field static too.(•ÆÄè
+<
+java:S1170L"!Make this final field static too.(ØöÜÌüÿÿÿÿ
+q
+java:S1149["VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ğĞÔÕúÿÿÿÿ
+l
+java:S1149m"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ôÖÔÕ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(Ò¿½Ÿùÿÿÿÿ
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(õí÷“
+W	java:S125†"<This block of commented-out lines of code should be removed.(Ñ»Øıÿÿÿÿ

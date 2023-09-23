@@ -1,0 +1,36 @@
+
+E
+java:S37402"/Provide the parametrized type for this generic.(ó½ë
+F
+java:S3740Œ"/Provide the parametrized type for this generic.(€ŸÖ
+B
+java:S1948‹"+Make "listModel" transient or serializable.(œÔş°
+Q	java:S125 "<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125c"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+T
+java:S1874h"9Remove this use of "getSelectedValues"; it is deprecated.(®¢Ö™úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1874Ÿ"9Remove this use of "getSelectedValues"; it is deprecated.(®¢Ö™úÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125º"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1874¿"9Remove this use of "getSelectedValues"; it is deprecated.(®¢Ö™úÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(İòó±
+8
+java:S1116û"Remove this empty statement.(Ä†·‡ıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(œĞóØ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(÷êåûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+@
+java:S3398½"$Move this method into "ListHandler".(Êùå°şÿÿÿÿ

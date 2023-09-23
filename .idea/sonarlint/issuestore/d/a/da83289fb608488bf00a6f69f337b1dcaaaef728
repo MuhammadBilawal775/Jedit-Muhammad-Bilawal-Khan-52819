@@ -1,0 +1,97 @@
+
+D
+java:S3740I"/Provide the parametrized type for this generic.(œ¡¨n
+J
+java:S3740L"/Provide the parametrized type for this generic.(ıè±¸üÿÿÿÿ
+J
+java:S3740}"/Provide the parametrized type for this generic.(š¹Û©ÿÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(ÒÙüË
+K
+java:S3740"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(ÖŞ‹Ş
+K
+java:S3740µ"/Provide the parametrized type for this generic.(Á™‡¦ûÿÿÿÿ
+F
+java:S3740é"/Provide the parametrized type for this generic.(¥™óĞ
+F
+java:S3740ò"/Provide the parametrized type for this generic.(¥Ğƒ…
+F
+java:S3740†"/Provide the parametrized type for this generic.(Õ¢¸ø
+F
+java:S3740Í"/Provide the parametrized type for this generic.(ßÒ¼ê
+F
+java:S3740¤"/Provide the parametrized type for this generic.(Š‡®
+K
+java:S3740¥"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿ
+F
+java:S3740§"/Provide the parametrized type for this generic.(ùÁ¹Ñ
+u
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô‘ğıÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(›˜°Ó
+~
+java:S1192Ù"bDefine a constant instead of duplicating this literal "options.toolbar.selectedActionSet" 3 times.(äÓæøÿÿÿÿ
+c
+java:S1192J"MDefine a constant instead of duplicating this literal "view.toolbar" 6 times.(ßÃîˆ
+J
+java:S1121ı".Extract the assignment out of this expression.(†¼‡Õøÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(§ù„”üÿÿÿÿ
+o	java:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(ıŠ§•
+=
+java:S1659¡"&Declare "moveDown" on a separate line.(ÑÓò
+Q	java:S125'"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S11618":Add the "@Override" annotation above this method signature(¿„ç¨úÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125w"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ñâÀÇúÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(’ô•àıÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(İòó±
+n
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÉºëÆûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125İ"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125ß"<This block of commented-out lines of code should be removed.(İòó±
+l
+java:S1206„"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Ìí¥ıÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+]
+java:S6201†"FReplace this instanceof check and cast with 'instanceof Button button'(ß ‰°
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161¢":Add the "@Override" annotation above this method signature(÷²«k
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161³":Add the "@Override" annotation above this method signature(÷²«k
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ä ¸ú
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(İòó±
+@
+java:S1659£"$Declare "action" on a separate line.(ìÔøİÿÿÿÿÿ
+;
+java:S1659«"$Declare "cancel" on a separate line.(Üãˆ¼
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(µæ°ˆüÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S1117Æ";Rename "action" which hides the field declared at line 675.(’üÍº
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ı"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

@@ -1,0 +1,14 @@
+
+n	java:S135Š"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+F
+java:S1066…"/Merge this if statement with the enclosing one.(©í€©
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›µó€
+l	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰øÿÿÿÿ
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÌÏ—ô
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+v
+java:S6201e"`Replace this instanceof check and cast with 'instanceof ReverseCharSequence reversecharsequence'(ßÌ¯Ö
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(İòó±

@@ -1,0 +1,61 @@
+
+^
+java:S6208C"CMerge the previous cases into this one using comma-separated label.(™°òäşÿÿÿÿ
+_
+java:S6208¸"CMerge the previous cases into this one using comma-separated label.(ƒ¿µÎşÿÿÿÿ
+_
+java:S6208Ş"CMerge the previous cases into this one using comma-separated label.(·‘¼şÿÿÿÿ
+_
+java:S6208ù"CMerge the previous cases into this one using comma-separated label.(²Ñå™şÿÿÿÿ
+_
+java:S6208Ï"CMerge the previous cases into this one using comma-separated label.(Óô—Åùÿÿÿÿ
+_
+java:S6208ç"CMerge the previous cases into this one using comma-separated label.(²Ñå™şÿÿÿÿ
+_
+java:S6208ğ"CMerge the previous cases into this one using comma-separated label.(‘ø÷©ùÿÿÿÿ
+K
+java:S1066ş"/Merge this if statement with the enclosing one.(¢—Âùÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(Óæ¸›
+K
+java:S1066Œ"/Merge this if statement with the enclosing one.(«„£Ñıÿÿÿÿ
+K
+java:S1066¬"/Merge this if statement with the enclosing one.(«Ì‡Úüÿÿÿÿ
+U
+java:S1118(":Add a private constructor to hide the implicit public one.(¥·ªşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+K
+java:S1874Æ"4Remove this use of "getModifiers"; it is deprecated.(óˆ«Ÿ
+H
+java:S1874Æ"1Remove this use of "CTRL_MASK"; it is deprecated.(óˆ«Ÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(­Ï—êıÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+K
+java:S1874ê"4Remove this use of "getModifiers"; it is deprecated.(£Í–æ
+=	java:S131ì""Add a default case to this switch.(‚ñ’Åøÿÿÿÿ
+L
+java:S1874Œ"0Remove this use of "ALT_MASK"; it is deprecated.(«„£Ñıÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(İòó±
+M
+java:S1874¬"1Remove this use of "CTRL_MASK"; it is deprecated.(«Ì‡Úüÿÿÿÿ
+G
+java:S1874­"0Remove this use of "ALT_MASK"; it is deprecated.(½ğÍÇ
+M
+java:S1874®"1Remove this use of "CTRL_MASK"; it is deprecated.(ÿáƒÖúÿÿÿÿ
+L
+java:S1874¯"0Remove this use of "ALT_MASK"; it is deprecated.(ƒÉØæÿÿÿÿÿ
+M
+java:S1874±"1Remove this use of "META_MASK"; it is deprecated.(¯ŠÈğøÿÿÿÿ
+=	java:S131Ç""Add a default case to this switch.(ìÃŒüÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(İòó±
+8	java:S131×""Add a default case to this switch.(‹©ş€
+L
+java:S1874ó"0Remove this use of "ALT_MASK"; it is deprecated.(äÎÍ¾şÿÿÿÿ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(İòó±

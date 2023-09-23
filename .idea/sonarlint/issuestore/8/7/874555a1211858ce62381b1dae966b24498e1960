@@ -1,0 +1,97 @@
+
+J
+java:S3740q"/Provide the parametrized type for this generic.(¿ºÑ»şÿÿÿÿ
+K
+java:S3740›"/Provide the parametrized type for this generic.(¿ºÑ»şÿÿÿÿ
+K
+java:S3740©"/Provide the parametrized type for this generic.(¿ºÑ»şÿÿÿÿ
+F
+java:S3740¹"/Provide the parametrized type for this generic.(ë»‡
+K
+java:S3740º"/Provide the parametrized type for this generic.(Ò¹ø¨úÿÿÿÿ
+F
+java:S3740Œ"/Provide the parametrized type for this generic.(ÌÚ˜
+K
+java:S3740¯"/Provide the parametrized type for this generic.(Ö²‡ºıÿÿÿÿ
+K
+java:S3740±"/Provide the parametrized type for this generic.(¢ÌçÌşÿÿÿÿ
+K
+java:S3740Ş"/Provide the parametrized type for this generic.(‚¯Åıÿÿÿÿÿ
+F
+java:S3740”"/Provide the parametrized type for this generic.(Çœ÷Ñ
+F
+java:S3740–"/Provide the parametrized type for this generic.(Í
+r
+java:S1192Â"[Define a constant instead of duplicating this literal "log-viewer.message.warning" 3 times.( ƒ»˜
+r
+java:S1192À"[Define a constant instead of duplicating this literal "log-viewer.message.message" 3 times.(°˜èê
+u
+java:S1192¿"YDefine a constant instead of duplicating this literal "log-viewer.message.debug" 3 times.(œ‹Şòøÿÿÿÿ
+v
+java:S1192Á"ZDefine a constant instead of duplicating this literal "log-viewer.message.notice" 3 times.(¸Ã£–úÿÿÿÿ
+w
+java:S1192ü"aDefine a constant instead of duplicating this literal "log-viewer.message.message.color" 3 times.(Ë¨a
+u
+java:S1192Ã"YDefine a constant instead of duplicating this literal "log-viewer.message.error" 3 times.(¤»¶ôûÿÿÿÿ
+x
+java:S1192„"aDefine a constant instead of duplicating this literal "log-viewer.message.warning.color" 3 times.(¶ôØ
+{
+java:S1192ˆ"_Define a constant instead of duplicating this literal "log-viewer.message.error.color" 3 times.(±Ïàÿÿÿÿÿ
+w
+java:S1192€"`Define a constant instead of duplicating this literal "log-viewer.message.notice.color" 3 times.(‘³Æ–
+v
+java:S1192ø"_Define a constant instead of duplicating this literal "log-viewer.message.debug.color" 3 times.( óô–
+J
+java:S1121".Extract the assignment out of this expression.(‘£Âıÿÿÿÿ
+D
+java:S1121Ñ".Extract the assignment out of this expression.(íßƒ
+E
+java:S1121Õ".Extract the assignment out of this expression.(ƒòî×
+J
+java:S1121Ù".Extract the assignment out of this expression.(Æô¾Ğşÿÿÿÿ
+E
+java:S1121İ".Extract the assignment out of this expression.(İòòƒ
+J
+java:S1121á".Extract the assignment out of this expression.(Ğüı’üÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda( ›Ø£ùÿÿÿÿ
+?
+java:S1604â"(Make this anonymous inner class a lambda(¯øÄ
+?
+java:S1604î"(Make this anonymous inner class a lambda(½Øæø
+D
+java:S1604ù"(Make this anonymous inner class a lambda(Âªêüÿÿÿÿ
+I
+java:S1948¸"-Make "listHandler" transient or serializable.(£öíÖùÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S1874"9Remove this use of "getSelectedValues"; it is deprecated.(Ñ¸Šâûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S2696Œ"6Make the enclosing method "static" or remove this set.(º¾ÿÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(Ä·˜îıÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(ªŒÎÊıÿÿÿÿ
+R
+java:S2696’"6Make the enclosing method "static" or remove this set.(ÍÕ¨½ùÿÿÿÿ
+M
+java:S2696”"6Make the enclosing method "static" or remove this set.(ÙÆË‘
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¡Ù§˜øÿÿÿÿ
+R	java:S125¤"<This block of commented-out lines of code should be removed.(ø‘¼ğ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

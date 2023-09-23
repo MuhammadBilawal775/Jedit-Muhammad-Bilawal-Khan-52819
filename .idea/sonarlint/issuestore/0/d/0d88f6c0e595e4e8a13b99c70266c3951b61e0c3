@@ -1,0 +1,12 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(‘ñÐîüÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(‘ñÐîüÿÿÿÿ
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(£œ—Â
+:	Web:S5256"%Add "<th>" headers to this "<table>".(£œ—Â
+@	Web:S1827"+Remove this deprecated "bgcolor" attribute.(£œ—Â
+OWeb:UnsupportedTagsInHtml5Check"$Remove this deprecated "tt" element.(£œ—Â
+MWeb:TableWithoutCaptionCheck" Add a description to this table.(Ÿ˜ìÑúÿÿÿÿ
+?	Web:S5256"%Add "<th>" headers to this "<table>".(Ÿ˜ìÑúÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(Ÿ˜ìÑúÿÿÿÿ
+TWeb:UnsupportedTagsInHtml5Check"$Remove this deprecated "tt" element.(Ÿ˜ìÑúÿÿÿÿ
+IWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(‘ñÐîüÿÿÿÿ

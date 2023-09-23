@@ -1,0 +1,121 @@
+
+J
+java:S3740C"/Provide the parametrized type for this generic.(é˜™Õøÿÿÿÿ
+E
+java:S3740W"/Provide the parametrized type for this generic.(–Ğ´Ì
+E
+java:S3740b"/Provide the parametrized type for this generic.(Õšù³
+J
+java:S3740e"/Provide the parametrized type for this generic.(³Â¾™üÿÿÿÿ
+D
+java:S3740p"/Provide the parametrized type for this generic.(¯‹x
+E
+java:S3740u"/Provide the parametrized type for this generic.(é‚ºõ
+J
+java:S3740z"/Provide the parametrized type for this generic.(êÙ®ùşÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(•ÍÅåÿÿÿÿÿ
+K
+java:S3740ì"/Provide the parametrized type for this generic.(Â¸€İøÿÿÿÿ
+F
+java:S3740ó"/Provide the parametrized type for this generic.( ’ç‚
+F
+java:S3740ù"/Provide the parametrized type for this generic.(¿§–
+K
+java:S3740û"/Provide the parametrized type for this generic.(ùóŸÛùÿÿÿÿ
+K
+java:S3740ü"/Provide the parametrized type for this generic.(®…ûÿÿÿÿ
+K
+java:S3740ı"/Provide the parametrized type for this generic.(¾ ÿßşÿÿÿÿ
+F
+java:S3740ş"/Provide the parametrized type for this generic.(Œ­Ç¦
+E
+java:S3740"/Provide the parametrized type for this generic.(­åÜF
+d
+java:S1192©"MDefine a constant instead of duplicating this literal "filenameGlob" 5 times.(Şá“ª
+_
+java:S1192±"HDefine a constant instead of duplicating this literal "tabSize" 3 times.(ˆŒ¹
+g
+java:S1192²"KDefine a constant instead of duplicating this literal "indentSize" 3 times.(É‚Œîüÿÿÿÿ
+l
+java:S1192´"PDefine a constant instead of duplicating this literal "elasticTabstops" 3 times.(Û´˜òûÿÿÿÿ
+j
+java:S1192ª"NDefine a constant instead of duplicating this literal "firstlineGlob" 5 times.(Ã¤šüÿÿÿÿ
+j
+java:S1192®"NDefine a constant instead of duplicating this literal "collapseFolds" 3 times.(®Õè±ûÿÿÿÿ
+b
+java:S1192µ"KDefine a constant instead of duplicating this literal "autoIndent" 3 times.(ö–Õî
+_
+java:S1192­"HDefine a constant instead of duplicating this literal "folding" 3 times.(¹¿Ù
+^
+java:S1192³"GDefine a constant instead of duplicating this literal "noTabs" 3 times.(ÔƒŞ’
+l
+java:S1192¬"PDefine a constant instead of duplicating this literal "camelCasedWords" 3 times.(ÌŒóØøÿÿÿÿ
+e
+java:S1192¬"NDefine a constant instead of duplicating this literal "largefilemode" 5 times.(¡ŠÄÖ
+b
+java:S1192¶"KDefine a constant instead of duplicating this literal "deepIndent" 3 times.(—áÈŒ
+a
+java:S1192«"JDefine a constant instead of duplicating this literal "noWordSep" 3 times.(±®½
+a
+java:S1192°"KDefine a constant instead of duplicating this literal "maxLineLen" 3 times.(»ÊB
+D
+java:S1121P".Extract the assignment out of this expression.(Ô”È
+I
+java:S1121R".Extract the assignment out of this expression.(üØÊ×üÿÿÿÿ
+D
+java:S1121W".Extract the assignment out of this expression.(–Ğ´Ì
+C
+java:S1121Z".Extract the assignment out of this expression.(Åãò
+D
+java:S1121b".Extract the assignment out of this expression.(Õšù³
+C
+java:S1121p".Extract the assignment out of this expression.(¯‹x
+D
+java:S1121u".Extract the assignment out of this expression.(é‚ºõ
+I
+java:S1121z".Extract the assignment out of this expression.(êÙ®ùşÿÿÿÿ
+D
+java:S1121~".Extract the assignment out of this expression.(¾’´
+E
+java:S1121".Extract the assignment out of this expression.(ˆ‹Âš
+J
+java:S1121…".Extract the assignment out of this expression.(Ñ§ÒÂúÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(í£¦şÿÿÿÿ
+J
+java:S1121¨".Extract the assignment out of this expression.(ü Ï‰úÿÿÿÿ
+E
+java:S1121©".Extract the assignment out of this expression.(Ÿ°ğ‰
+E
+java:S1121ª".Extract the assignment out of this expression.(¼ÓÜ©
+D
+java:S1121«".Extract the assignment out of this expression.(ÚÏÉK
+v
+java:S1450„"_Remove the "askLargeFileMode" field and declare it as a local variable in the relevant methods.(ÖÍ‡
+?
+java:S1948ï"(Make "global" transient or serializable.(±¥——
+B
+java:S1948ğ"+Make "modeProps" transient or serializable.(”Äÿ»
+@
+java:S1948ñ")Make "current" transient or serializable.(ÏşÑÚ
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125."<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Â"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+M
+java:S1068ƒ"1Remove this unused "largeFileMode" private field.(®¹ä²ıÿÿÿÿ

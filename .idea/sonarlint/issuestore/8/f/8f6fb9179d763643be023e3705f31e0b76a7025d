@@ -1,0 +1,75 @@
+
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÁçÈıÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ•ÀÛÿÿÿÿÿ
+m
+java:S1192ë"VDefine a constant instead of duplicating this literal "plugin-error-download" 3 times.(À¯ş
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±™ÚÖøÿÿÿÿ
+D
+java:S1604À"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+D
+java:S1604Î"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1251"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1610²"9Convert the abstract class "Operation" into an interface.(ë€Í¤ûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(İòó±
+l
+java:S1206€"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Ìí¥ıÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Ì":Add the "@Override" annotation above this method signature(Ìäòÿûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1117Ï"8Rename "jar" which hides the field declared at line 263.(ñë‚º
+e
+java:S4042İ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Õ¾˜¶
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+]
+java:S6201‚"FReplace this instanceof check and cast with 'instanceof Remove remove'(‹Ú÷ò
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(İòó±
+l
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Ìí¥ıÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(Ãê¦²úÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(§Ìö©
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ìäòÿûÿÿÿÿ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(Ìäòÿûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+F
+java:S2093Ê"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+D	java:S108æ")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Q	java:S899‡";Do something with the "boolean" value returned by "delete".(§·ˆ•
+e
+java:S4042‡"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(§·ˆ•
+F
+java:S2093¹"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+_
+java:S6201"HReplace this instanceof check and cast with 'instanceof Install install'(‚–©Â
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117£"9Rename "path" which hides the field declared at line 407.(èç­»ıÿÿÿÿ
+F
+java:S2093¨"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

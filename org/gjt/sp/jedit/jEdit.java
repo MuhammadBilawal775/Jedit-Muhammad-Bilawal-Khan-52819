@@ -1865,6 +1865,14 @@ public class jEdit
 	 *
 	 * @since jEdit 4.3pre17
 	 */
+	public static void SubmitBug()
+	{
+		try {
+			java.awt.Desktop.getDesktop().browse(new java.net.URI("https://sourceforge.net/p/jedit/bugs/"));
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		}
+	}
 	public static Buffer newFile(EditPane editPane, String dir)
 	{
 		if (editPane != null)

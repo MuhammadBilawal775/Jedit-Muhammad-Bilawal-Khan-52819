@@ -1,0 +1,88 @@
+
+J
+java:S3740."/Provide the parametrized type for this generic.(õ¹ù›üÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(À£·Ïüÿÿÿÿ
+E
+java:S37402"/Provide the parametrized type for this generic.( ’ç‚
+E
+java:S37403"/Provide the parametrized type for this generic.(¿§–
+J
+java:S37404"/Provide the parametrized type for this generic.(ùóŸÛùÿÿÿÿ
+J
+java:S37405"/Provide the parametrized type for this generic.(®…ûÿÿÿÿ
+J
+java:S37406"/Provide the parametrized type for this generic.(¾ ÿßşÿÿÿÿ
+E
+java:S37407"/Provide the parametrized type for this generic.(Œ­Ç¦
+J
+java:S37408"/Provide the parametrized type for this generic.(¸Ú¾×üÿÿÿÿ
+D
+java:S3740<"/Provide the parametrized type for this generic.(­åÜF
+E
+java:S3740T"/Provide the parametrized type for this generic.(šâŸå
+E
+java:S3740e"/Provide the parametrized type for this generic.(€èşµ
+J
+java:S3740{"/Provide the parametrized type for this generic.(öŒÄøÿÿÿÿ
+K
+java:S3740–"/Provide the parametrized type for this generic.(·Åøßøÿÿÿÿ
+E
+java:S3740 "/Provide the parametrized type for this generic.(øğ
+
+E
+java:S3740¨"/Provide the parametrized type for this generic.(ÈÙµ
+K
+java:S3740´"/Provide the parametrized type for this generic.(ÖèÂ¢øÿÿÿÿ
+K
+java:S3740½"/Provide the parametrized type for this generic.(©ŞŞìùÿÿÿÿ
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(îäºš
+E
+java:S3740Í"/Provide the parametrized type for this generic.(Ø¤µw
+d
+java:S1192È"HDefine a constant instead of duplicating this literal "tabSize" 3 times.(¶şƒóúÿÿÿÿ
+g
+java:S1192Ï"KDefine a constant instead of duplicating this literal "indentSize" 3 times.(´¥ŞÔøÿÿÿÿ
+g
+java:S1192ß"PDefine a constant instead of duplicating this literal "elasticTabstops" 3 times.(öøÑâ
+d
+java:S1192¡"HDefine a constant instead of duplicating this literal "folding" 3 times.(µÄ¹°ÿÿÿÿÿ
+]
+java:S1192×"GDefine a constant instead of duplicating this literal "noTabs" 3 times.(Ëò¦J
+b
+java:S1192¿"KDefine a constant instead of duplicating this literal "maxLineLen" 3 times.(÷ÉÚ¸
+g	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õö¡˜
+=
+java:S19481"'Make "modes" transient or serializable.(½†ÿÒ
+>
+java:S1948:"(Make "buffer" transient or serializable.(ÂÎ×
+Q	java:S125`"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125j"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125q"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125›"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¤"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125«"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¸"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Â"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125á"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S1117ü"<Rename "encoding" which hides the field declared at line 46.(ØÊÔùÿÿÿÿ
+_
+java:S5738–"HRemove this call to a deprecated method, it has been marked for removal.(êø©‘
+D	java:S108š")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+_
+java:S5738Ÿ"HRemove this call to a deprecated method, it has been marked for removal.(Ï©¤Â
+D	java:S108£")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+d
+java:S5738¨"HRemove this call to a deprecated method, it has been marked for removal.(èÛ´Ëøÿÿÿÿ
+D	java:S108¬")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+8	java:S131µ""Add a default case to this switch.(¹©¢
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

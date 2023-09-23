@@ -1,0 +1,63 @@
+
+n
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(â³¹b
+d
+java:S1192»"MDefine a constant instead of duplicating this literal "vfs.browser." 3 times.(Ï×
+K
+java:S1066¸"/Merge this if statement with the enclosing one.(ìÒš´ÿÿÿÿÿ
+X
+java:S4973ç"<Strings and Boxed types should be compared using "equals()".(Š„°úÿÿÿÿ
+X
+java:S4973¿"<Strings and Boxed types should be compared using "equals()".(£„—ıÿÿÿÿ
+R
+java:S4973Å"<Strings and Boxed types should be compared using "equals()".(“·­j
+X
+java:S4973Ë"<Strings and Boxed types should be compared using "equals()".(ÅĞËõûÿÿÿÿ
+C
+java:S1948"'Make "files" transient or serializable.(¬÷¿Æüÿÿÿÿ
+A
+java:S1948¡"*Make "extAttrs" transient or serializable.(œå»Ï
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1252"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(£æœûÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(Â­¯Øûÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125s"<This block of commented-out lines of code should be removed.(„€
+V	java:S125v"<This block of commented-out lines of code should be removed.(ªŒÉµûÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(Ÿò©£
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(Îü Ùùÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(İ¯ù¼
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W
+java:S1119©";Refactor the code to remove this label and the need for it.(¿Üµ‡üÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W
+java:S1119¿";Refactor the code to remove this label and the need for it.(¿Üµ‡üÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+g
+java:S1659’"PDeclare "sortMixFilesAndDirs" and all following declarations on a separate line.(€¶‰Ù
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+C
+java:S1905Ã"'Remove this unnecessary cast to "Long".(ÿ¹®ºıÿÿÿÿ
+C
+java:S1905É"'Remove this unnecessary cast to "Long".(Òö¡ûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

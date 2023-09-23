@@ -1,0 +1,28 @@
+
+J
+java:S3740/"/Provide the parametrized type for this generic.(Î·àÿüÿÿÿÿ
+D
+java:S3740?"/Provide the parametrized type for this generic.(ãèº'
+Y
+java:S6208s"CMerge the previous cases into this one using comma-separated label.(ˆÃÝ€
+‚
+java:S1319/"gThe type of "bindings" should be an interface such as "Map" rather than the implementation "Hashtable".(Î·àÿüÿÿÿÿ
+q
+java:S1149/"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Î·àÿüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(øà‚
+V	java:S125a"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S6201´"LReplace this instanceof check and cast with 'instanceof Hashtable hashtable'(Åýý¤ÿÿÿÿÿ
+]
+java:S6201¾"FReplace this instanceof check and cast with 'instanceof String string'(ýÝÞ±
+j
+java:S6201È"NReplace this instanceof check and cast with 'instanceof EditAction editaction'(”â¾Çùÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

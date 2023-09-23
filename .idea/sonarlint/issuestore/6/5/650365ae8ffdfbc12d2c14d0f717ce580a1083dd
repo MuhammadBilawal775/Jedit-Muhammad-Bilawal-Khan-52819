@@ -1,0 +1,57 @@
+
+J
+java:S3740d"/Provide the parametrized type for this generic.(‚Ó©äıÿÿÿÿ
+k
+java:S1104'"PMake kind a static final constant or non-public and provide accessors if needed.(…ü³ùÿÿÿÿ
+i
+java:S1104("SMake postfix a static final constant or non-public and provide accessors if needed.(‹—‚³
+]
+java:S3973g"GUse indentation to denote the code conditionally executed by this "if".(©£Ø
+P
+java:S1161,":Add the "@Override" annotation above this method signature(çÔ°
+=
+java:S1659E"'Declare "postvalue" on a separate line.(±¹®ç
+h
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì£Î÷
+^
+java:S6201g"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(©£Ø
+<
+java:S2129h"!Remove this "Boolean" constructor(Öİ†ôıÿÿÿÿ
+c
+java:S5738h"HRemove this call to a deprecated method, it has been marked for removal.(Öİ†ôıÿÿÿÿ
+^
+java:S6201k"HReplace this instanceof check and cast with 'instanceof Integer integer'(ç¥ ÷
+4
+java:S2129s"Remove this "Byte" constructor(šªëÄ
+^
+java:S5738s"HRemove this call to a deprecated method, it has been marked for removal.(šªëÄ
+:
+java:S2129u"Remove this "Short" constructor(õ®ªùÿÿÿÿ
+c
+java:S5738u"HRemove this call to a deprecated method, it has been marked for removal.(õ®ªùÿÿÿÿ
+>
+java:S2129w"#Remove this "Character" constructor(§Äª×úÿÿÿÿ
+c
+java:S5738w"HRemove this call to a deprecated method, it has been marked for removal.(§Äª×úÿÿÿÿ
+7
+java:S2129z"!Remove this "Integer" constructor(ãƒµ‚
+^
+java:S5738z"HRemove this call to a deprecated method, it has been marked for removal.(ãƒµ‚
+X
+java:S6201|"BReplace this instanceof check and cast with 'instanceof Long long'(ˆÓ©Ÿ
+4
+java:S2129}"Remove this "Long" constructor(µ¶ï¨
+^
+java:S5738}"HRemove this call to a deprecated method, it has been marked for removal.(µ¶ï¨
+Z
+java:S6201~"DReplace this instanceof check and cast with 'instanceof Float float'(Áùñİ
+:
+java:S2129"Remove this "Float" constructor(²¶Ú³ûÿÿÿÿ
+c
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(²¶Ú³ûÿÿÿÿ
+\
+java:S6201€"FReplace this instanceof check and cast with 'instanceof Double double'(Şï_
+7
+java:S2129" Remove this "Double" constructor(¥Æşµ
+_
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¥Æşµ

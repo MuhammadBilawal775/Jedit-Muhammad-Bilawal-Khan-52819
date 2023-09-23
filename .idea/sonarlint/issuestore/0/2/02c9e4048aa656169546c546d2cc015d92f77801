@@ -1,0 +1,49 @@
+
+E
+java:S3740L"/Provide the parametrized type for this generic.(Îƒ½
+J
+java:S3740^"/Provide the parametrized type for this generic.(âˆÛÜüÿÿÿÿ
+K
+java:S3740á"/Provide the parametrized type for this generic.(ø…¤åÿÿÿÿÿ
+K
+java:S3740í"/Provide the parametrized type for this generic.(íè°§øÿÿÿÿ
+F
+java:S3740î"/Provide the parametrized type for this generic.(«µıÆ
+C
+java:S1604N"(Make this anonymous inner class a lambda(ú¬Ÿìÿÿÿÿÿ
+s
+java:S1450ß"WRemove the "oldTheme" field and declare it as a local variable in the relevant methods.(åüêöøÿÿÿÿ
+8
+java:S23862"Make this member "protected".(ä¡Ìúÿÿÿÿ
+A
+java:S1948à"%Make "lfs" transient or serializable.(Ê›é‹şÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1258"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(Şıñ¸ùÿÿÿÿ
+Q	java:S125}"<This block of commented-out lines of code should be removed.(…Ù˜‹
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125Ê"<This block of commented-out lines of code should be removed.(³Í3
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S899‘";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+j
+java:S4042‘"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+K
+java:S1874¢"4Remove this use of "closeQuietly"; it is deprecated.(×µ†Ş
+F
+java:S2093–"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1128":Remove this unused import 'javax.swing.event.ChangeEvent'.(„­”¾ùÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'javax.swing.event.ChangeListener'.(†˜ñ‚
+E
+java:S1128"/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö
+H
+java:S1128""-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+O
+java:S1068í"3Remove this unused "antiAliasExtras" private field.(íè°§øÿÿÿÿ
+C
+java:S1068ğ"-Remove this unused "useQuartz" private field.(ÙŞ

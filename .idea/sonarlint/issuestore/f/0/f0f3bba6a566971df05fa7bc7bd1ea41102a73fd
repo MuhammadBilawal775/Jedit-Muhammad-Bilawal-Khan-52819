@@ -1,0 +1,38 @@
+
+_
+java:S6208Æ"CMerge the previous cases into this one using comma-separated label.(âµÖúÿÿÿÿ
+J
+java:S1066t"/Merge this if statement with the enclosing one.(åİ°êúÿÿÿÿ
+K
+java:S1066¿"/Merge this if statement with the enclosing one.(‡à‘Âùÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üå¹Æùÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125>"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+m
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¶üÎ‚ûÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<	java:S131l""Add a default case to this switch.(‚ñ’Åøÿÿÿÿ
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Öøùÿÿÿÿ
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“Öøùÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S6201ª"HReplace this instanceof check and cast with 'instanceof JComponent comp'(ŒóÓ¾şÿÿÿÿ
+8	java:S131Á""Add a default case to this switch.(ÿéÓî
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ù"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ö‚Úñ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(­ã«Ùşÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125›"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¤"<This block of commented-out lines of code should be removed.(”ŠÓ€ûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(­ã«Ùşÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

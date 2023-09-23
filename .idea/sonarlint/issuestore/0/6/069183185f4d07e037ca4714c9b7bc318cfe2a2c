@@ -1,0 +1,11 @@
+
+s	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(ê¶ïÉûÿÿÿÿ
+t
+java:S1104*"YMake isDoStatement a static final constant or non-public and provide accessors if needed.(·‘ôåşÿÿÿÿ
+P
+java:S1161.":Add the "@Override" annotation above this method signature(çÔ°
+=
+java:S16594""Declare "body" on a separate line.(ñÛ†Æùÿÿÿÿ
+o
+java:S6201K"TReplace this instanceof check and cast with 'instanceof ReturnControl returncontrol'(ÖÏÒ›úÿÿÿÿ
+<	java:S131M""Add a default case to this switch.(ß‚¿­ùÿÿÿÿ

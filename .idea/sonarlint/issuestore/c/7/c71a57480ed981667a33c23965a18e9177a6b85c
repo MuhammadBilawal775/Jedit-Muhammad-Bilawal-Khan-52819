@@ -1,0 +1,23 @@
+
+D
+java:S1121E".Extract the assignment out of this expression.(âˆßâ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+>
+java:S1948¸"'Make "entry" transient or serializable.(Ùé¯ù
+Q	java:S125-"<This block of commented-out lines of code should be removed.(İòó±
+Z
+java:S3252K"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(±Õß
+V	java:S125Q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+{
+java:S6201‹"dReplace this instanceof check and cast with 'instanceof DefaultFocusComponent defaultfocuscomponent'(·‡»
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

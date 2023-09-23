@@ -1,0 +1,22 @@
+
+J
+java:S37404"/Provide the parametrized type for this generic.(´ïÙ—ÿÿÿÿÿ
+J
+java:S3740I"/Provide the parametrized type for this generic.(Ðßüªûÿÿÿÿ
+t
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Š”ýÿÿÿÿÿ
+C
+java:S1604i"(Make this anonymous inner class a lambda(äŸÐ¡ûÿÿÿÿ
+C
+java:S1604v"(Make this anonymous inner class a lambda(ÆÈ ßüÿÿÿÿ
+€
+java:S1149A"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„Š”ýÿÿÿÿÿ
+Q
+java:S1117?";Rename "flavors" which hides the field declared at line 45.(€Ï—ì
+T
+java:S1117@">Rename "flavorList" which hides the field declared at line 52.(‘ùÏ¾
+P
+java:S2209A"5Change this instance-reference to a static reference.(„Š”ýÿÿÿÿÿ
+J
+java:S2209B"5Change this instance-reference to a static reference.(ÞÄâb
+R	java:S125‚"<This block of commented-out lines of code should be removed.(Ýòó±

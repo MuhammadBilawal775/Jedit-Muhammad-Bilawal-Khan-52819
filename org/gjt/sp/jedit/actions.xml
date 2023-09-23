@@ -25,8 +25,7 @@
 		view.actionBar();
 	</CODE>
 </ACTION>
-
-<ACTION NAME="add-explicit-fold">
+	<ACTION NAME="add-explicit-fold">
 	<CODE>
 		textArea.addExplicitFold();
 	</CODE>
@@ -107,6 +106,15 @@
 	</CODE>
 </ACTION>
 
+<ACTION NAME="VisitWebsite">
+	<CODE>
+		try {
+		java.awt.Desktop.getDesktop().browse(new java.net.URI("https://sourceforge.net/p/jedit/bugs/"));
+		} catch (Exception ex) {
+		ex.printStackTrace();
+		}
+	</CODE>
+</ACTION>
 <ACTION NAME="closeall-bufferset">
 	<CODE>
 		org.gjt.sp.jedit.bufferset.BufferSet bufferSet = editPane.getBufferSet();
@@ -1669,5 +1677,4 @@
 		textArea.showWordCountDialog();
 	</CODE>
 </ACTION>
-
 </ACTIONS>

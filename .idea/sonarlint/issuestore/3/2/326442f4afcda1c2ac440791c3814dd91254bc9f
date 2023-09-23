@@ -1,0 +1,206 @@
+
+K
+java:S3740ζ"/Provide the parametrized type for this generic.(‘υϋ§ωÿÿÿÿ
+u
+java:S2293κ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΙαƒΘψÿÿÿÿ
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(Σο¬ςωÿÿÿÿ
+o
+java:S1192Έ"SDefine a constant instead of duplicating this literal "buffer-multiple-io" 3 times.(γΒήωÿÿÿÿ
+b
+java:S1192Υ"KDefine a constant instead of duplicating this literal "autoReload" 3 times.(κΦ£¨
+d
+java:S1192Ι"HDefine a constant instead of duplicating this literal "ioerror" 6 times.(™ς¬®ωÿÿÿÿ
+i
+java:S1192λ"RDefine a constant instead of duplicating this literal "overwriteReadonly" 3 times.(μΰΝ
+e
+java:S1192Π"NDefine a constant instead of duplicating this literal "largefilemode" 9 times.(…Ώ²
+h
+java:S1192Τ"QDefine a constant instead of duplicating this literal "autoReloadDialog" 3 times.(™Ή‘
+h
+java:S1192Ρ"LDefine a constant instead of duplicating this literal "nohighlight" 5 times.(Ύυδΐψÿÿÿÿ
+d
+java:S1192Ρ"HDefine a constant instead of duplicating this literal "limited" 5 times.(Ύυδΐψÿÿÿÿ
+m	java:S127Λ
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ΔK
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ΔK
+K
+java:S1066ε"/Merge this if statement with the enclosing one.(νΊ­Υϊÿÿÿÿ
+K
+java:S1066"/Merge this if statement with the enclosing one.(©ÿύϋÿÿÿÿ
+f	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊΟώ
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ιω•
+?
+java:S1604ρ"(Make this anonymous inner class a lambda(»Η‰Ό
+D
+java:S1604δ"(Make this anonymous inner class a lambda(δί΄ψώÿÿÿÿ
+D
+java:S1604‚"(Make this anonymous inner class a lambda(δί΄ψώÿÿÿÿ
+D
+java:S5411²"(Use a primitive boolean expression here.(ΤΡ•Βύÿÿÿÿ
+K
+java:S1143Ω"5Remove this return statement from this finally block.(Έ®Γ'
+K
+java:S1143Γ"5Remove this return statement from this finally block.(Έ®Γ'
+K
+java:S1143ρ"5Remove this return statement from this finally block.(Έ®Γ'
+{
+java:S1149σ	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‹³£C
+
+java:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ΟÿΔβόÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+i
+java:S3776΄"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ν¨Άώ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S899Σ";Do something with the "boolean" value returned by "delete".(νƒθΪ
+e
+java:S4042Σ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(νƒθΪ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(ϋά‰εϊÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(–λϊΤώÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=
+java:S1075ύ"&Remove this hard-coded path-delimiter.(•™΄σ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ρΉΛ·
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1117ο":Rename "file" which hides the field declared at line 1846.(όξβΰ
+W	java:S125ς"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+G
+java:S1172ÿ"+Remove this unused method parameter "view".(βτέόÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S899•";Do something with the "boolean" value returned by "delete".(νƒθΪ
+e
+java:S4042•"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(νƒθΪ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S899";Do something with the "boolean" value returned by "delete".(νƒθΪ
+e
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(νƒθΪ
+W	java:S125Ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Α"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+_
+java:S5738ς"HRemove this call to a deprecated method, it has been marked for removal.(Ò©έ’
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776ό"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¬Σƒφ
+W	java:S125ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ρ"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125σ"<This block of commented-out lines of code should be removed.(έςσ±
+8	java:S131¦	""Add a default case to this switch.(Ώψ¨¥
+W	java:S125Ρ	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+_
+java:S6355δ	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(υϊ
+Q
+java:S1133ε	"5Do not forget to remove this deprecated code someday.(ε™Ρνÿÿÿÿÿ
+R	java:S125Ϋ	"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125θ	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125κ	"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125φ	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‚
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776¶
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”ύΡ±
+W	java:S125­
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125γ
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125χ
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‹"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125–"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125έ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125†"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S899–";Do something with the "boolean" value returned by "delete".(νƒθΪ
+e
+java:S4042–"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(νƒθΪ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(Χ­
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(έςσ±
+Q
+java:S1161Ώ":Add the "@Override" annotation above this method signature(Β„ε£
+V
+java:S1161Π":Add the "@Override" annotation above this method signature(’Ϊπύÿÿÿÿ
+W	java:S125Ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V
+java:S1161α":Add the "@Override" annotation above this method signature(Ιωϊÿÿÿÿ
+W	java:S125ή"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161ς":Add the "@Override" annotation above this method signature(Π•“η
+W	java:S125ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125«"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125Γ"<This block of commented-out lines of code should be removed.(ΤΦ‚•
+Q	java:S899α";Do something with the "boolean" value returned by "delete".(νƒθΪ
+e
+java:S4042α"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(νƒθΪ
+W	java:S125μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V
+java:S1117›":Rename "file" which hides the field declared at line 1846.(άÿάρϊÿÿÿÿ
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776―"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(›Εω§ϊÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S899φ";Do something with the "boolean" value returned by "delete".(νƒθΪ
+e
+java:S4042φ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(νƒθΪ
+W	java:S125§"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(έςσ±
+U
+java:S1128%"?Remove this unused import 'javax.swing.SwingWorker.StateValue'.(Γ¦γ
+X
+java:S1128."=Remove this unused import 'org.gjt.sp.jedit.bufferio.IoTask'.(¬Ρ¦ÿÿÿÿÿ

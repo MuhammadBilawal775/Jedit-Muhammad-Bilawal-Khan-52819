@@ -1,0 +1,28 @@
+
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(†«¦•þÿÿÿÿ
+R
+java:S4973;"<Strings and Boxed types should be compared using "equals()".(â»“â
+W
+java:S4973="<Strings and Boxed types should be compared using "equals()".(Š‘•Æýÿÿÿÿ
+W
+java:S4973?"<Strings and Boxed types should be compared using "equals()".(«¥‚Ðùÿÿÿÿ
+W
+java:S4973A"<Strings and Boxed types should be compared using "equals()".(¯Ñ¾Øøÿÿÿÿ
+\
+java:S2259K"AA "NullPointerException" could be thrown; "tag" is nullable here.(çÄœËúÿÿÿÿ
+l
+java:S1149…"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†«¦•þÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+J
+java:S18743"5Remove this use of "PluginOptions"; it is deprecated.(‘òý+
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125š"<This block of commented-out lines of code should be removed.(Ýòó±
+D
+java:S1068†"(Remove this unused "path" private field.(áë»àûÿÿÿÿ

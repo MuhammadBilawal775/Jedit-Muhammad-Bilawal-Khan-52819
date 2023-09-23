@@ -1,0 +1,27 @@
+
+D
+java:S37407"/Provide the parametrized type for this generic.(­ÏÂ
+Z
+java:S6208ñ"CMerge the previous cases into this one using comma-separated label.(ˆÃÝ€
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üå¹Æùÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1258"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(›úè¤ûÿÿÿÿ
+<	java:S131b""Add a default case to this switch.(‚ñ’Åøÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125•"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(­ã«Ùþÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(øà‚
+W	java:S125Þ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S6201±"LReplace this instanceof check and cast with 'instanceof Hashtable hashtable'(Åýý¤ÿÿÿÿÿ
+]
+java:S6201»"FReplace this instanceof check and cast with 'instanceof String string'(ýÝÞ±
+~
+java:S6201Å"bReplace this instanceof check and cast with 'instanceof JEditBeanShellAction jeditbeanshellaction'(Ê¯Ñ‹ûÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ð"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

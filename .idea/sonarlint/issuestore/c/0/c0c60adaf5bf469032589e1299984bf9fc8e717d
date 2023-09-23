@@ -1,0 +1,101 @@
+
+u
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(°¡æÂüÿÿÿÿ
+_
+java:S6208Š"CMerge the previous cases into this one using comma-separated label.(ŸñÑşÿÿÿÿ
+.
+java:S1700"Rename field "key"(é­å÷úÿÿÿÿ
+U
+java:S1659·">Declare "a" and all following declarations on a separate line.(ı½íº
+P
+java:S1118*":Add a private constructor to hide the implicit public one.(¥Ï·
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ë¶ÓĞ
+[
+java:S1854"?Remove this useless assignment to local variable "returnValue".(„¡ïøÿÿÿÿ
+J
+java:S1874F"4Remove this use of "getModifiers"; it is deprecated.(£Í–æ
+M
+java:S1874m"2Remove this use of "SHIFT_MASK"; it is deprecated.(˜«â™úÿÿÿÿ
+L
+java:S1874o"1Remove this use of "META_MASK"; it is deprecated.(‘­†şÿÿÿÿ
+=	java:S131†""Add a default case to this switch.(ìÃŒüÿÿÿÿ
+H
+java:S1874"1Remove this use of "META_MASK"; it is deprecated.(éù½›
+I
+java:S1874‘"2Remove this use of "SHIFT_MASK"; it is deprecated.(Ãœ
+N
+java:S1874™"2Remove this use of "SHIFT_MASK"; it is deprecated.(çÇßÿÿÿÿÿ
+R
+java:S1874š"6Remove this use of "ALT_GRAPH_MASK"; it is deprecated.(©¡ÎÁûÿÿÿÿ
+L
+java:S1874›"0Remove this use of "ALT_MASK"; it is deprecated.(‰àè‘üÿÿÿÿ
+N
+java:S1874 "2Remove this use of "SHIFT_MASK"; it is deprecated.(çÇßÿÿÿÿÿ
+R
+java:S1874¡"6Remove this use of "ALT_GRAPH_MASK"; it is deprecated.(ïµÿÿÿÿÿ
+M
+java:S1874¤"6Remove this use of "ALT_GRAPH_MASK"; it is deprecated.(ˆùå™
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+?
+java:S2129£"#Remove this "Character" constructor(¢¬ê•üÿÿÿÿ
+d
+java:S5738£"HRemove this call to a deprecated method, it has been marked for removal.(¢¬ê•üÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+M
+java:S1874Ö"1Remove this use of "CTRL_MASK"; it is deprecated.(Ø»Øúÿÿÿÿ
+G
+java:S1874Û"0Remove this use of "ALT_MASK"; it is deprecated.(²Ú°·
+H
+java:S1874à"1Remove this use of "META_MASK"; it is deprecated.(¶‡şœ
+N
+java:S1874å"2Remove this use of "SHIFT_MASK"; it is deprecated.(·‘¹øÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1874Š"1Remove this use of "CTRL_MASK"; it is deprecated.(Ì’Ú´
+L
+java:S1874‹"0Remove this use of "ALT_MASK"; it is deprecated.(Çõ»ıùÿÿÿÿ
+M
+java:S1874Œ"1Remove this use of "META_MASK"; it is deprecated.(®ëŸıÿÿÿÿ
+I
+java:S1874"2Remove this use of "SHIFT_MASK"; it is deprecated.(Ñ…½ç
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1874­"1Remove this use of "CTRL_MASK"; it is deprecated.(³æóÓ
+G
+java:S1874¯"0Remove this use of "ALT_MASK"; it is deprecated.(ŞÆ­á
+M
+java:S1874±"1Remove this use of "META_MASK"; it is deprecated.(íÕ°şÿÿÿÿ
+N
+java:S1874³"2Remove this use of "SHIFT_MASK"; it is deprecated.(ñı™Âùÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1874Ë"1Remove this use of "META_MASK"; it is deprecated.(ä“
+H
+java:S1874Ì"1Remove this use of "CTRL_MASK"; it is deprecated.(Å¬â˜
+L
+java:S1874Î"0Remove this use of "ALT_MASK"; it is deprecated.(—±ê™ûÿÿÿÿ
+N
+java:S1874Ï"2Remove this use of "SHIFT_MASK"; it is deprecated.(‹ì™¨úÿÿÿÿ
+H
+java:S1874Ô"1Remove this use of "CTRL_MASK"; it is deprecated.(Ì’Ú´
+L
+java:S1874Õ"0Remove this use of "ALT_MASK"; it is deprecated.(Çõ»ıùÿÿÿÿ
+M
+java:S1874Ö"1Remove this use of "META_MASK"; it is deprecated.(®ëŸıÿÿÿÿ
+H
+java:S1874×"2Remove this use of "SHIFT_MASK"; it is deprecated.(ÄŠÉq
+8	java:S131â""Add a default case to this switch.(Î½Ó
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¬„‡üÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(İòó±
+Z
+java:S6201ª">Replace this instanceof check and cast with 'instanceof Key k'(ëè©©ùÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

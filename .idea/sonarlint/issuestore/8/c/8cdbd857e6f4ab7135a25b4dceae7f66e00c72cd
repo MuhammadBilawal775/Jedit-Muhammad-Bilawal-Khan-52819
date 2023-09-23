@@ -1,0 +1,20 @@
+
+`
+java:S3014×"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(£ï¦®
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125A"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+y
+java:S2142["^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+y
+java:S2142}"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+q
+java:S6201„"ZReplace this instanceof check and cast with 'instanceof RuntimeException runtimeexception'(†Ñ˜ 
+z
+java:S2142”"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Y
+java:S6201©"BReplace this instanceof check and cast with 'instanceof Task task'(ù¦ïã
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

@@ -1,0 +1,142 @@
+
+K
+java:S3740ç"/Provide the parametrized type for this generic.(³ÉŸ–ÿÿÿÿÿ
+K
+java:S3740ñ"/Provide the parametrized type for this generic.(üûÍÑüÿÿÿÿ
+F
+java:S3740ş"/Provide the parametrized type for this generic.(³®¹
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(Ü‹„ôÿÿÿÿÿ
+K
+java:S3740–"/Provide the parametrized type for this generic.(£‹·éùÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(¶Î¾§
+K
+java:S3740§"/Provide the parametrized type for this generic.(¾ıå»ÿÿÿÿÿ
+F
+java:S3740¶"/Provide the parametrized type for this generic.(È©İ®
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÛ²¤ùÿÿÿÿ
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥éàÃ
+f
+java:S1192Š"JDefine a constant instead of duplicating this literal "beanshell" 3 times.(ğåí‡üÿÿÿÿ
+h
+java:S1192è"LDefine a constant instead of duplicating this literal "no-settings" 3 times.(Ÿõ³ñıÿÿÿÿ
+c
+java:S1192û"GDefine a constant instead of duplicating this literal "macros" 6 times.(—‡®¿ÿÿÿÿÿ
+K
+java:S1066Ş"/Merge this if statement with the enclosing one.(ç²“„øÿÿÿÿ
+?
+java:S1604¥"(Make this anonymous inner class a lambda(Â§¢¦
+?
+java:S1604Í"(Make this anonymous inner class a lambda(Â§¢¦
+?
+java:S1604"(Make this anonymous inner class a lambda(Â§¢¦
+?
+java:S1604©"(Make this anonymous inner class a lambda(Â§¢¦
+?
+java:S1604Ô"(Make this anonymous inner class a lambda(Â§¢¦
+^
+java:S3973R"HUse indentation to denote the code conditionally executed by this "for".(§å¢
+e
+java:S2259Š"IA "NullPointerException" could be thrown; "getHandler()" can return null.(ğåí‡üÿÿÿÿ
+a
+java:S2259Ö"EA "NullPointerException" could be thrown; "handler" is nullable here.(éÄğÊşÿÿÿÿ
+u
+java:S1450ë"^Remove the "systemMacroPath" field and declare it as a local variable in the relevant methods.(©¬†Ì
+r
+java:S1450ì"\Remove the "userMacroPath" field and declare it as a local variable in the relevant methods.(Ï×„Q
+
+java:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³ÉŸ–ÿÿÿÿÿ
+
+java:S1149ñ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(üûÍÑüÿÿÿÿ
+P
+java:S1118?":Add a private constructor to hide the implicit public one.(ß¾Áü
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1119R";Refactor the code to remove this label and the need for it.(§å¢
+/
+java:S1065R"Remove this unused label.(§å¢
+1
+java:S3626x"Remove this redundant jump.(ûÁİ…
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+z
+java:S2142®"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+z
+java:S2142Ö"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+z
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+z
+java:S2142²"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+z
+java:S2142İ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(İòó±
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ü‹„ôÿÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S6201›"AReplace this instanceof check and cast with 'instanceof List vec'(êëÛÊ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125í"<This block of commented-out lines of code should be removed.(İòó±
+T
+java:S6213‡"8Rename this method to not match a restricted identifier.(æ‘¿–úÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+T
+java:S6213’"8Rename this method to not match a restricted identifier.(ıâÛüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125°"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¹"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ä"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

@@ -1,0 +1,15 @@
+
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôœ»µûÿÿÿÿ
+g
+java:S11920"LDefine a constant instead of duplicating this literal "no-settings" 4 times.(æÎ†Œÿÿÿÿÿ
+`
+java:S2583ÿ"DChange this condition so that it does not always evaluate to "false"(¿ÈÒüÿÿÿÿ
+`
+java:S2583÷"DChange this condition so that it does not always evaluate to "false"(¿ÈÒüÿÿÿÿ
+_
+java:S6201¨"HReplace this instanceof check and cast with 'instanceof BufferUpdate bu'(äñË
+f
+java:S6201³"JReplace this instanceof check and cast with 'instanceof EditPaneUpdate ep'(Á•é‹şÿÿÿÿ
+b
+java:S6201Æ"FReplace this instanceof check and cast with 'instanceof ViewUpdate vu'(Û…¹…şÿÿÿÿ

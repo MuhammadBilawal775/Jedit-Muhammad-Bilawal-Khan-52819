@@ -1,0 +1,51 @@
+
+_
+java:S6208–"CMerge the previous cases into this one using comma-separated label.(·÷„›ûÿÿÿÿ
+v
+java:S1149ñ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ìÜÊÁ
+U
+java:S1118/":Add a private constructor to hide the implicit public one.(õø˜…øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¯³¬€
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+m
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(Ïïã™ùÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(’„í„şÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(İòó±
+8	java:S131Ÿ""Add a default case to this switch.(Æø—Ø
+W	java:S125²"<This block of commented-out lines of code should be removed.(áÆùŞûÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(óÈëşûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ıİ˜#
+R	java:S125à"<This block of commented-out lines of code should be removed.(İòó±
+8	java:S131æ""Add a default case to this switch.(Æø—Ø
+R	java:S125î"<This block of commented-out lines of code should be removed.(»µÂ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(»µÂ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼Ê’Š
+7	java:S131Š""Add a default case to this switch.(İ¤a
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(İòó±

@@ -1,0 +1,43 @@
+
+F
+java:S3740›"/Provide the parametrized type for this generic.(ηχΑ
+F
+java:S3740°"/Provide the parametrized type for this generic.(£―½
+F
+java:S3740Ξ"/Provide the parametrized type for this generic.(υί­ύ
+p
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ΥβΖ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(–Λ®«
+z
+java:S1488ά"^Immediately return this expression instead of assigning it to the temporary variable "retval".(Ύοι©ωÿÿÿÿ
+`
+java:S2583€"DChange this condition so that it does not always evaluate to "false"(Εβ…ϋÿÿÿÿ
+r
+java:S1149Ω"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ΤΝ«Ηωÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+S
+java:S1117ή"<Rename "actions" which hides the field declared at line 473.(ΒΰΉ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+y
+java:S6201®"bReplace this instanceof check and cast with 'instanceof JEditBeanShellAction jeditbeanshellaction'(®ΎΒΣ
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125½"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ή"<This block of commented-out lines of code should be removed.(ÒΘΖ‰
+W	java:S125ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S125χ"<This block of commented-out lines of code should be removed.(αZ
+W	java:S125“"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125΅"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Λ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Φ"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125ί"<This block of commented-out lines of code should be removed.(έςσ±

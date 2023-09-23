@@ -1,0 +1,54 @@
+
+J
+java:S3740z"/Provide the parametrized type for this generic.(Ëæ±æÿÿÿÿÿ
+J
+java:S3740|"/Provide the parametrized type for this generic.(ïÀÂøÿÿÿÿ
+E
+java:S3740~"/Provide the parametrized type for this generic.(æõ«¡
+F
+java:S3740¨"/Provide the parametrized type for this generic.(Šƒ¿¦
+K
+java:S3740¯"/Provide the parametrized type for this generic.(ÈÁ”ôıÿÿÿÿ
+K
+java:S3740¼"/Provide the parametrized type for this generic.(Şµ˜°üÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(·ÊÅä
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(’åÚ•
+j
+java:S11923"TDefine a constant instead of duplicating this literal "font-selector.title" 4 times.(Õâ¹É
+E
+java:S1121§".Extract the assignment out of this expression.(Å¹„
+E
+java:S1121¨".Extract the assignment out of this expression.(Šƒ¿¦
+E
+java:S1121®".Extract the assignment out of this expression.(”®Üç
+J
+java:S1121¯".Extract the assignment out of this expression.(ÈÁ”ôıÿÿÿÿ
+E
+java:S1121»".Extract the assignment out of this expression.(íÙ÷¤
+J
+java:S1121¼".Extract the assignment out of this expression.(Şµ˜°üÿÿÿÿ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( ¼ø§
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( ¼ø§
+g	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ±ô°
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÿÕ
+V	java:S1255"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125"<This block of commented-out lines of code should be removed.(°ñìøÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(íÙö¯üÿÿÿÿ
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(ÔÖ³äÿÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

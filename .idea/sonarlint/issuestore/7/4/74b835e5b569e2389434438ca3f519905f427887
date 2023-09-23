@@ -1,0 +1,34 @@
+
+g
+java:S1192J"LDefine a constant instead of duplicating this literal "print.color" 3 times.(Â¹®¤üÿÿÿÿ
+g	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œí¥Òşÿÿÿÿ
+X
+java:S2259F"BA "NullPointerException" could be thrown; "obIn" is nullable here.(¨Í³ù
+e
+java:S2095¸"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(œïÅü
+U
+java:S1118%":Add a private constructor to hide the implicit public one.(œí¥Òşÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+=	java:S108G")Either remove or fill this block of code.(Éò§+
+E
+java:S20939"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+F
+java:S1172X"+Remove this unused method parameter "view".(µÀ×ÿÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+F
+java:S1172`"0Remove this unused method parameter "selection".(‡§¨½
+V	java:S125]"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+c
+java:S3252Š"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".( şÆ…ùÿÿÿÿ
+^
+java:S3252‹"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(€ï±
+R	java:S125¡"<This block of commented-out lines of code should be removed.(’ÖÍå
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+}
+java:S2118º"aMake the "javax.print.attribute.PrintRequestAttributeSet" class "Serializable" or don't write it.(¨ÿùÑÿÿÿÿÿ
+>	java:S108É")Either remove or fill this block of code.(Éò§+
+F
+java:S2093¶"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(İòó±

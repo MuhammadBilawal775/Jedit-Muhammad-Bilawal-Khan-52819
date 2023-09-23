@@ -1,0 +1,16 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+e
+java:S1874E"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(îè°ÿÿÿÿÿ
+U
+java:S1161E":Add the "@Override" annotation above this method signature(îè°ÿÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(İòó±
+P
+java:S1161S":Add the "@Override" annotation above this method signature(‘‚Ã£
+P
+java:S1161]":Add the "@Override" annotation above this method signature(•ç¸
+P
+java:S1161h":Add the "@Override" annotation above this method signature(ñ¤ó
+V	java:S125q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

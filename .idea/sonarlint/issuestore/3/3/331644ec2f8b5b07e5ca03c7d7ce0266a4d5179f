@@ -1,0 +1,55 @@
+
+V	java:S125,"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+O
+java:S1874>"4Remove this use of "getModifiers"; it is deprecated.(Φρ”εύÿÿÿÿ
+Q
+java:S2696C"6Make the enclosing method "static" or remove this set.(ƒ«ώώÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(π΄¨ύ
+V	java:S125~"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+U
+java:S1117‰">Rename "dragStart" which hides the field declared at line 641.(Ήιέ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776Ι"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(³”Ζμ
+W	java:S125Ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+P
+java:S1874„"4Remove this use of "getModifiers"; it is deprecated.(­σι¤ύÿÿÿÿ
+R
+java:S2696‡"6Make the enclosing method "static" or remove this set.(ƒ«ώώÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+K
+java:S1874"4Remove this use of "getModifiers"; it is deprecated.(φςΘ½
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+P
+java:S1874«"4Remove this use of "BUTTON1_MASK"; it is deprecated.(ς£€ύÿÿÿÿ
+F
+java:S1874¬"0Remove this use of "ALT_MASK"; it is deprecated.(―φµ
+P
+java:S1874®"4Remove this use of "BUTTON2_MASK"; it is deprecated.(ζΪγΊϋÿÿÿÿ
+P
+java:S1874±"4Remove this use of "BUTTON2_MASK"; it is deprecated.(ζΪγΊϋÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+P
+java:S1874Ύ"4Remove this use of "BUTTON1_MASK"; it is deprecated.(ς£€ύÿÿÿÿ
+H
+java:S1874Ώ"1Remove this use of "CTRL_MASK"; it is deprecated.(τυΙ΄
+K
+java:S1874Α"4Remove this use of "BUTTON3_MASK"; it is deprecated.(ªΩ€ψ
+K
+java:S1874Δ"4Remove this use of "BUTTON3_MASK"; it is deprecated.(ªΩ€ψ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+[
+java:S3358β"DExtract this nested ternary operation into an independent statement.(‹ωε
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+[
+java:S3358φ"DExtract this nested ternary operation into an independent statement.(Βζό
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(έςσ±

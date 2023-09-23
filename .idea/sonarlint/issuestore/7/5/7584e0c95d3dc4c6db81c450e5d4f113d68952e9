@@ -1,0 +1,24 @@
+
+e
+java:S1192)"ODefine a constant instead of duplicating this literal "plugin-options" 4 times.(îÃ­¨
+^
+java:S1192Q"HDefine a constant instead of duplicating this literal "plugin." 5 times.(½›‚‡
+K
+java:S1133$"5Do not forget to remove this deprecated code someday.(ìÌÂÚ
+=
+java:S1123$"'Add the missing @Deprecated annotation.(ìÌÂÚ
+I
+java:S1948z".Make "pluginsGroup" transient or serializable.(ñÁŒ…üÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125*"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(òğÅ–
+F
+java:S1128"0Remove this unused import 'org.gjt.sp.util.Log'.(şÛÚ”

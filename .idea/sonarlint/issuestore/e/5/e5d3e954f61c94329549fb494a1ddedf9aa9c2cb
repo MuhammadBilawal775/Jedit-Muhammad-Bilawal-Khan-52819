@@ -1,0 +1,76 @@
+
+K
+java:S3740Š"/Provide the parametrized type for this generic.(ÿ€ÕŸÿÿÿÿÿ
+F
+java:S3740Š"/Provide the parametrized type for this generic.(İË³˜
+F
+java:S3740‘"/Provide the parametrized type for this generic.(Š˜ÙŸ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(º¸Œãùÿÿÿÿ
+F
+java:S3740†"/Provide the parametrized type for this generic.(Ùº˜
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÉÀÅıÿÿÿÿ
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(£îÕ¯şÿÿÿÿ
+f	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´É 
+a
+java:S2095Î"EUse try-with-resources or close this "JarFile" in a "finally" clause.(ìàîûıÿÿÿÿ
+l
+java:S3008ı"PRename this field "INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»œ¤›øÿÿÿÿ
+r
+java:S1149ÿ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(İÉÀÅıÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+P
+java:S1161O":Add the "@Override" annotation above this method signature(×ÿœı
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S6201h"SReplace this instanceof check and cast with 'instanceof JARClassLoader classLoader'(Ã˜¾¬
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(—
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+o
+java:S6201"SReplace this instanceof check and cast with 'instanceof JARClassLoader classLoader'(À´”Øûÿÿÿÿ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(°´òÂ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+o
+java:S6201´"SReplace this instanceof check and cast with 'instanceof JARClassLoader classLoader'(À´”Øûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(Š¦è
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+G
+java:S1150Š"+Implement Iterator rather than Enumeration.(ÿ€ÕŸÿÿÿÿÿ
+a
+java:S1874ª"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éËëš
+D
+java:S1113ª"-Do not override the Object.finalize() method.(éËëš
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S2696¬"6Make the enclosing method "static" or remove this set.(û¦½ªûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+3
+java:S1116ä"Remove this empty statement.(ˆàñì
+3
+java:S1116ò"Remove this empty statement.(·••á
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ö"<This block of commented-out lines of code should be removed.(İòó±
+d	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İË³˜
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+N
+java:S1874Î"2Remove this use of "getPackage"; it is deprecated.(ìàîûıÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(İòó±
+X
+java:S2130î"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(÷Ù¸
+I
+java:S1874ò"-Remove this use of "toURL"; it is deprecated.(…öãœûÿÿÿÿ
+D	java:S108ô")Either remove or fill this block of code.(Ë­¥šúÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(İòó±

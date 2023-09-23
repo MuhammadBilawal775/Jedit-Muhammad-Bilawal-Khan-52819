@@ -1,0 +1,11 @@
+
+y
+java:S14881"cImmediately return this expression instead of assigning it to the temporary variable "multiSelect".(½˜ñŒ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1253"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125g"<This block of commented-out lines of code should be removed.(¢ä–Êùÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1128!":Remove this unused import 'org.gjt.sp.jedit.GUIUtilities'.(Ù¡Œä
+\
+java:S1128#"ARemove this unused import 'org.gjt.sp.jedit.gui.CompletionPopup'.(°æø‹úÿÿÿÿ

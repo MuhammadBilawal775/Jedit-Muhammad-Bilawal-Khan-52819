@@ -1,0 +1,14 @@
+
+e
+java:S1192J"JDefine a constant instead of duplicating this literal "<html><b>" 3 times.(«áñ³ýÿÿÿÿ
+g
+java:S1192J"LDefine a constant instead of duplicating this literal "</b></html>" 3 times.(«áñ³ýÿÿÿÿ
+B
+java:S1948/"'Make "entry" transient or serializable.(ÆûÕùøÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Ýòó±
+p
+java:S3252>"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(Ù–Ê»
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨…ˆþ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

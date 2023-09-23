@@ -1,0 +1,40 @@
+
+E
+java:S37405"/Provide the parametrized type for this generic.(åß ±
+E
+java:S3740?"/Provide the parametrized type for this generic.(›ÁÚ‘
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(°×è¡
+p
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¤£Ë
+I
+java:S11210".Extract the assignment out of this expression.(è¼•İùÿÿÿÿ
+D
+java:S1604†"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+D
+java:S1604Î"(Make this anonymous inner class a lambda(ü’¹şøÿÿÿÿ
+B
+java:S1948=",Make "helpViewer" transient or serializable.(êÌåÍ
+=
+java:S1948@"'Make "index" transient or serializable.(ÃçÓ
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125:"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(œĞóØ
+b
+java:S6201”"FReplace this instanceof check and cast with 'instanceof String string'(ğ¾ì˜ûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ä ¸ú
+U
+java:S1117Ä"9Rename "index" which hides the field declared at line 64.(¹ãõ†üÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(‘‚Ã£
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<
+java:S3398B"&Move this method into "ActionHandler".(ıÜóÌ

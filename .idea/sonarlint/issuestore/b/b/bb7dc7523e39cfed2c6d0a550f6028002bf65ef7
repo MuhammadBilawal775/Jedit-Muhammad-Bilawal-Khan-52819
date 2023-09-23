@@ -1,0 +1,13 @@
+
+E
+java:S37409"/Provide the parametrized type for this generic.(ÉÀ¿É
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(ÎÖ
+P
+java:S1161+":Add the "@Override" annotation above this method signature(çÔ°
+h
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÉÀ¿É
+{
+java:S6201K"`Replace this instanceof check and cast with 'instanceof BSHArrayInitializer bsharrayinitializer'(¼ßŒ½ùÿÿÿÿ
+b
+java:S6201‡"LReplace this instanceof check and cast with 'instanceof Primitive primitive'(¾õÉy

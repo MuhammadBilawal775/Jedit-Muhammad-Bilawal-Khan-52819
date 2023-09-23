@@ -1,0 +1,46 @@
+
+E
+java:S3740T"/Provide the parametrized type for this generic.(’‘î
+F
+java:S3740¬"/Provide the parametrized type for this generic.(¸ÑĞï
+F
+java:S3740¶"/Provide the parametrized type for this generic.(ÆÆ²
+K
+java:S3740Ü"/Provide the parametrized type for this generic.(ÚØ¶äûÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È­ÙÇ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(İòó±
+`
+java:S1874`"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(±íòÉ
+P
+java:S1161`":Add the "@Override" annotation above this method signature(±íòÉ
+V	java:S125]"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(Ñ«´şÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(„àŒŸ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(İòó±
+Z
+java:S1155·">Use isEmpty() to check whether the collection is empty or not.(ˆø¹ıÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(œĞóØ
+`
+java:S6201ı"DReplace this instanceof check and cast with 'instanceof Marker mark'(¦Ÿ‘¨úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161’":Add the "@Override" annotation above this method signature(Õ¼‘…úÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(İòó±
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‰‹‹ù

@@ -1,0 +1,33 @@
+
+K
+java:S3740æ"/Provide the parametrized type for this generic.(àÕîÏşÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Î­û
+p
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Ó¬š
+p
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÓîË
+u
+java:S1488ä"^Immediately return this expression instead of assigning it to the temporary variable "result".(òÉ‰
+v
+java:S1488Œ"_Immediately return this expression instead of assigning it to the temporary variable "handler".(Ë¬Í
+_
+java:S2095p"IUse try-with-resources or close this "InputStream" in a "finally" clause.(÷Ş¶Ì
+_
+java:S2583q"DChange this condition so that it does not always evaluate to "false"(Åâ…ûÿÿÿÿ
+P
+java:S1118c":Add a private constructor to hide the implicit public one.(²æ¨Ä
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¯"<This block of commented-out lines of code should be removed.(İòó±
+\
+java:S6201ê"EReplace this instanceof check and cast with 'instanceof Descriptor d'(Ê±îö
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

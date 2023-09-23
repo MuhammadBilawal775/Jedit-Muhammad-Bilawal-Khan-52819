@@ -1,0 +1,46 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(υΒΐχ
+u
+java:S2293ξ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ζ³δΖϋÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ήªc
+}
+java:S1319"gThe type of "result" should be an interface such as "List" rather than the implementation "LinkedList".(…ήªc
+e
+java:S11046"PMake path a static final constant or non-public and provide accessors if needed.(‡ΫΫ?
+g
+java:S11047"QMake caret a static final constant or non-public and provide accessors if needed.(Ρ‡ΥΊ
+j
+java:S11048"UMake selection a static final constant or non-public and provide accessors if needed.(²ωΏ
+o
+java:S11049"TMake encoding a static final constant or non-public and provide accessors if needed.(Ό¥ÿÿÿÿÿ
+k
+java:S1104:"PMake mode a static final constant or non-public and provide accessors if needed.(ΨΥ¦ϋÿÿÿÿ
+h
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(…ήªc
+U
+java:S1118.":Add a private constructor to hide the implicit public one.(‰ΑΎΩϋÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125N"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ή"<This block of commented-out lines of code should be removed.(Ο¶Ή‹
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=
+java:S1168μ"&Return an empty array instead of null.(¥Ήο
+W	java:S125"<This block of commented-out lines of code should be removed.(”›Ετϊÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125δ"<This block of commented-out lines of code should be removed.(έςσ±
+5
+java:S3398ι"Move this method into "Entry".(Ν’Δ

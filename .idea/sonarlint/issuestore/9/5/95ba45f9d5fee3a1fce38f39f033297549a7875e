@@ -1,0 +1,30 @@
+
+t
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(βΨίώÿÿÿÿ
+p
+java:S2293ή"YReplace the type specification in this constructor call with the diamond operator ("<>").(Λ¶ϋ¨
+Q	java:S125+"<This block of commented-out lines of code should be removed.(έςσ±
+C
+java:S3010M"-Remove this assignment of "userKeymapFolder".(§³…®
+V	java:S125N"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+P	java:S899‡";Do something with the "boolean" value returned by "delete".(¤¶$
+d
+java:S4042‡"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¤¶$
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+P	java:S899“";Do something with the "boolean" value returned by "delete".(¤¶$
+d
+java:S4042“"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¤¶$
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+F
+java:S2093§"*Change this "try" to a try-with-resources.(η£κϊÿÿÿÿ
+W	java:S125Έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

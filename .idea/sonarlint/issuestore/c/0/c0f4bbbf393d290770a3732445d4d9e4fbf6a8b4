@@ -1,0 +1,20 @@
+
+Y
+java:S6208O"CMerge the previous cases into this one using comma-separated label.(íûâ‘
+m	java:S127p"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ğİ­
+s	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒÜÕ¹üÿÿÿÿ
+l
+java:S1104'"QMake value a static final constant or non-public and provide accessors if needed.(’åéäøÿÿÿÿ
+B
+java:S1948'"'Make "value" transient or serializable.(’åéäøÿÿÿÿ
+P
+java:S1161+":Add the "@Override" annotation above this method signature(çÔ°
+<	java:S1316""Add a default case to this switch.(ìÃŒüÿÿÿÿ
+0
+java:S2153d"Remove the boxing of "ch".(äï‹
+9
+java:S2129d"#Remove this "Character" constructor(äï‹
+^
+java:S5738d"HRemove this call to a deprecated method, it has been marked for removal.(äï‹
+h
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÖÑÂ

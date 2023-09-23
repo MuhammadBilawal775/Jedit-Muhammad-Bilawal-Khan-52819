@@ -1,0 +1,21 @@
+
+P
+java:S1161,":Add the "@Override" annotation above this method signature(çÔ°ž
+[
+java:S6201:"@Replace this instanceof check and cast with 'instanceof LHS lhs'(ÖçËšþÿÿÿÿ
+m
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†ÿ¬ûúÿÿÿÿ
+i
+java:S6201W"NReplace this instanceof check and cast with 'instanceof SimpleNode simplenode'(íÔŸªýÿÿÿÿ
+L
+java:S5261_"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+u
+java:S6201X"ZReplace this instanceof check and cast with 'instanceof BSHAmbiguousName bshambiguousname'(×—›íûÿÿÿÿ
+u
+java:S6201X"ZReplace this instanceof check and cast with 'instanceof BSHAmbiguousName bshambiguousname'(×—›íûÿÿÿÿ
+L
+java:S5261\"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+[
+java:S6201i"@Replace this instanceof check and cast with 'instanceof LHS lhs'(ç‰í¹ýÿÿÿÿ
+L
+java:S5261l"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ

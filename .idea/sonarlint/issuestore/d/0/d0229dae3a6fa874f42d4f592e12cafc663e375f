@@ -1,0 +1,37 @@
+
+E
+java:S3740H"/Provide the parametrized type for this generic.(­œÃÚ
+E
+java:S3740H"/Provide the parametrized type for this generic.(­œÃÚ
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(éŠ½Â
+K
+java:S3740‰"/Provide the parametrized type for this generic.(³½ÁÂøÿÿÿÿ
+D
+java:S1121H".Extract the assignment out of this expression.(­œÃÚ
+D
+java:S1121Z".Extract the assignment out of this expression.(®³Àø
+C
+java:S1121^".Extract the assignment out of this expression.(Û¾ë`
+D
+java:S1121b".Extract the assignment out of this expression.(‰ÒÓÛ
+D
+java:S1121f".Extract the assignment out of this expression.(Çñº
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125p"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ä ¸ú
+U
+java:S1874³"9Remove this use of "getSelectedValues"; it is deprecated.(û‚ÛÇıÿÿÿÿ
+U
+java:S1874Ğ"9Remove this use of "getSelectedValues"; it is deprecated.(û‚ÛÇıÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+K
+java:S1128""0Remove this unused import 'org.gjt.sp.jedit.io'.(í¹‚¿ùÿÿÿÿ
+;
+java:S3398“"$Move this method into "ListHandler".(ûàŠ°

@@ -1,0 +1,90 @@
+
+F
+java:S3740Ş"/Provide the parametrized type for this generic.(—Úñå
+F
+java:S3740ó"/Provide the parametrized type for this generic.(ÔùßÌ
+F
+java:S3740ô"/Provide the parametrized type for this generic.(††—’
+K
+java:S3740‡"/Provide the parametrized type for this generic.(¢¢ºÜùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Öòøo
+K
+java:S3740•"/Provide the parametrized type for this generic.(úÃÙèıÿÿÿÿ
+K
+java:S3740›"/Provide the parametrized type for this generic.(¤‚¸øÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(Ş¹—öûÿÿÿÿ
+F
+java:S3740³"/Provide the parametrized type for this generic.(‚îæ™
+K
+java:S3740»"/Provide the parametrized type for this generic.(¬ØŒäıÿÿÿÿ
+K
+java:S3740È"/Provide the parametrized type for this generic.(™ì¨íıÿÿÿÿ
+F
+java:S3740Ì"/Provide the parametrized type for this generic.(×¸Ğ­
+F
+java:S3740Ù"/Provide the parametrized type for this generic.(ç®ğ€
+F
+java:S3740ß"/Provide the parametrized type for this generic.(ı§ 
+K
+java:S3740ú"/Provide the parametrized type for this generic.(»±¢üÿÿÿÿ
+K
+java:S3740ú"/Provide the parametrized type for this generic.(»±¢üÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(½—Ä
+F
+java:S3740‡"/Provide the parametrized type for this generic.(ä£ƒÈ
+F
+java:S3740±"/Provide the parametrized type for this generic.(Ğ”¥ì
+F
+java:S3740µ"/Provide the parametrized type for this generic.(è††µ
+]
+java:S1192™"FDefine a constant instead of duplicating this literal "array" 3 times.(‚Œ£¦
+l
+java:S1128("QRemove this unnecessary import: java.lang classes are always implicitly imported.(Ãá‡ıÿÿÿÿ
+l
+java:S1128)"QRemove this unnecessary import: java.lang classes are always implicitly imported.(É­ŸØüÿÿÿÿ
+l
+java:S1128*"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ç…‚ûÿÿÿÿ
+l
+java:S1128+"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+l
+java:S1128,"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+r
+java:S1149‡"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¢¢ºÜùÿÿÿÿ
+m
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(½—Ä
+T
+java:S2130i">Use "Double.parseDouble" for this string-to-double conversion.(¾¿¸Ú
+T
+java:S4719x"9Replace charset name argument with StandardCharsets.UTF_8(„Å½¦ûÿÿÿÿ
+J
+java:S1874z"4Remove this use of "OutputFormat"; it is deprecated.(ö¡×º
+J
+java:S1874z"4Remove this use of "OutputFormat"; it is deprecated.(ö¡×º
+Q
+java:S1874"5Remove this use of "XMLSerializer"; it is deprecated.(Ÿ‘«ıÿÿÿÿ
+Q
+java:S1874"5Remove this use of "XMLSerializer"; it is deprecated.(Ÿ‘«ıÿÿÿÿ
+Q
+java:S2209Š"5Change this instance-reference to a static reference.(¶äñÿÿÿÿÿ
+E
+java:S2093q"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S1155à">Use isEmpty() to check whether the collection is empty or not.(Áºü—ùÿÿÿÿ
+Z
+java:S1155ö">Use isEmpty() to check whether the collection is empty or not.(ÙÃ·àûÿÿÿÿ
+Z
+java:S1155ö">Use isEmpty() to check whether the collection is empty or not.(ÙÃ·àûÿÿÿÿ
+>
+java:S1125‰"'Remove the unnecessary boolean literal.(ìÁà
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ˆï÷îşÿÿÿÿ
+C
+java:S1125®"'Remove the unnecessary boolean literal.(‘½ÆÖúÿÿÿÿ
+>
+java:S1125µ"'Remove the unnecessary boolean literal.(–Ê®î
+>
+java:S1125½"'Remove the unnecessary boolean literal.(­¬ñ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(à×†Ùüÿÿÿÿ

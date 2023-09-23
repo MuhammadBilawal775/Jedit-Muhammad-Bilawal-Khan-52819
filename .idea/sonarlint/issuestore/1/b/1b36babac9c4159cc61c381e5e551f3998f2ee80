@@ -1,0 +1,64 @@
+
+J
+java:S3740b"/Provide the parametrized type for this generic.(Ö©¯‰şÿÿÿÿ
+F
+java:S3740Ä"/Provide the parametrized type for this generic.(‡”™Ö
+K
+java:S3740á"/Provide the parametrized type for this generic.(ûàŞıÿÿÿÿ
+K
+java:S3740â"/Provide the parametrized type for this generic.(Ãåç•ÿÿÿÿÿ
+F
+java:S3740Ï"/Provide the parametrized type for this generic.(ˆÅÎí
+F
+java:S3740Ğ"/Provide the parametrized type for this generic.(Ãªƒ
+e
+java:S1192e"ODefine a constant instead of duplicating this literal "view.antiAlias" 3 times.( Šù
+p
+java:S1192ä"TDefine a constant instead of duplicating this literal "view.fontSubstList." 4 times.(»º÷Ãøÿÿÿÿ
+g
+java:S1192q"RDefine a constant instead of duplicating this literal "options.textarea" 10 times.(Õ½W
+J
+java:S1121‰".Extract the assignment out of this expression.(²Äøÿÿÿÿ
+E
+java:S1121".Extract the assignment out of this expression.(óÇğÛ
+J
+java:S1121¨".Extract the assignment out of this expression.(ïßõÀúÿÿÿÿ
+J
+java:S1121®".Extract the assignment out of this expression.(ÑúÄ‘øÿÿÿÿ
+E
+java:S1121´".Extract the assignment out of this expression.(…ÁôŒ
+J
+java:S1121¼".Extract the assignment out of this expression.(Í¹úÇüÿÿÿÿ
+J
+java:S1121Ä".Extract the assignment out of this expression.(›‰Šøÿÿÿÿ
+J
+java:S1121Í".Extract the assignment out of this expression.(ùÆñûÿÿÿÿ
+E
+java:S1121Õ".Extract the assignment out of this expression.(åÔ
+E
+java:S1121İ".Extract the assignment out of this expression.(£®ƒÏ
+C
+java:S1604@"(Make this anonymous inner class a lambda(½’ÇÛøÿÿÿÿ
+C
+java:S1604Q"(Make this anonymous inner class a lambda(Õ ³øùÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(‘Ú•óÿÿÿÿÿ
+C
+java:S2387¬"-"font" is the name of a field in "Component".(âÛ¡k
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S11616":Add the "@Override" annotation above this method signature(•‚İôıÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+[
+java:S3252"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(…‰éûÿÿÿÿ
+V
+java:S1161÷":Add the "@Override" annotation above this method signature(íøºåşÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(Úø­‹ùÿÿÿÿ
+R	java:S125É"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1854¾"5Remove this useless assignment to local variable "f".(»º÷Ãøÿÿÿÿ
+P
+java:S1161Ú":Add the "@Override" annotation above this method signature(÷²«k
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

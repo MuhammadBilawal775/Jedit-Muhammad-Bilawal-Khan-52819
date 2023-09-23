@@ -1,0 +1,36 @@
+
+b
+java:S1192²"KDefine a constant instead of duplicating this literal " blkIdx = " 4 times.(„ê¦“
+w
+java:S1192Ñ"[Define a constant instead of duplicating this literal "writing to an input buffer" 4 times.(‹Ä§ûÿÿÿÿ
+F
+java:S1066»"/Merge this if statement with the enclosing one.(æØ¥±
+F
+java:S1066Ù"/Merge this if statement with the enclosing one.(æØ¥±
+K
+java:S1066™"/Merge this if statement with the enclosing one.(á°˜õûÿÿÿÿ
+E
+java:S1066Û"/Merge this if statement with the enclosing one.(ò“Ú
+[
+java:S2583Ù"DChange this condition so that it does not always evaluate to "false"(æØ¥±
+[
+java:S2583»"DChange this condition so that it does not always evaluate to "false"(æØ¥±
+Q
+java:S6213":Rename this variable to not match a restricted identifier.(˜Ñ““
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+=
+java:S1168Ú"&Return an empty array instead of null.(¥¹ï
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+H
+java:S1264ş",Replace this "for" loop with a "while" loop.(£•ó½üÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+V
+java:S6213Å":Rename this variable to not match a restricted identifier.(ÈôÔâùÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ë¬˜×úÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(ó˜ğèùÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(Çˆ¢âúÿÿÿÿ
+N	java:S106Ò"9Replace this use of System.out or System.err by a logger.(¶“Á#
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(”àõıÿÿÿÿ

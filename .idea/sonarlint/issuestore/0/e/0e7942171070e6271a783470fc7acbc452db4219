@@ -1,0 +1,72 @@
+
+J
+java:S3740V"/Provide the parametrized type for this generic.(Ίκηκϊÿÿÿÿ
+J
+java:S3740W"/Provide the parametrized type for this generic.(―™θωÿÿÿÿ
+J
+java:S3740l"/Provide the parametrized type for this generic.(Ϋ§·ψÿÿÿÿ
+F
+java:S3740Μ"/Provide the parametrized type for this generic.(«ΚΠ
+F
+java:S3740Π"/Provide the parametrized type for this generic.(ν—
+F
+java:S3740—"/Provide the parametrized type for this generic.(³³ί
+F
+java:S3740—"/Provide the parametrized type for this generic.(³³ί
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬«ρ
+p
+java:S2293μ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ξ›Η”
+p
+java:S2293υ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ο’πυ
+p
+java:S2293φ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘‡™
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(ω‡Ξϋÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(‚χΖϊÿÿÿÿ
+L
+java:S1948Θ"0Make "selectedKeymap" transient or serializable.(νΧ«ξύÿÿÿÿ
+I
+java:S1948Ρ"-Make "allBindings" transient or serializable.(›Δκώÿÿÿÿ
+|
+java:S1149Ξ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬Όπ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125="<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+D	java:S108΄")Either remove or fill this block of code.(θτ®Ύÿÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776ρ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ƒ®’ύÿÿÿÿ
+W	java:S125ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W
+java:S1117υ"@Rename "allBindings" which hides the field declared at line 209.(ο’πυ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+8	java:S131ν""Add a default case to this switch.(ύΞ°€
+W	java:S125ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(δ Έϊ
+F
+java:S1948ϋ"*Make "bindings" transient or serializable.(τήϋόÿÿÿÿ
+W	java:S125υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+>
+java:S1659ύ"'Declare "shortcut2" on a separate line.(΅©έ‘
+J
+java:S1948›".Make "selectedItem" transient or serializable.(Ϋςόÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125θ"<This block of commented-out lines of code should be removed.(έςσ±

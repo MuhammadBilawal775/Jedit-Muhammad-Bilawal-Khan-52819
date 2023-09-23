@@ -1,0 +1,81 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ή
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(φιΕ¤
+p
+java:S2293΅"YReplace the type specification in this constructor call with the diamond operator ("<>").(ώ¤γ
+u
+java:S2293Ί"YReplace the type specification in this constructor call with the diamond operator ("<>").(αΧνΪώÿÿÿÿ
+u
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ρΈ„ωÿÿÿÿ
+?
+java:S1604Μ"(Make this anonymous inner class a lambda(ςχ–¶
+W
+java:S2259"@A "NullPointerException" could be thrown; "b2" is nullable here.(Ε„ή­
+\
+java:S2259™"@A "NullPointerException" could be thrown; "b1" is nullable here.(ΰ¨¤όÿÿÿÿ
+e
+java:S3824·"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ύ„Ά
+]
+java:S1659¤"ADeclare "tTop" and all following declarations on a separate line.(¬θψΉϋÿÿÿÿ
+P
+java:S5993¬"9Change the visibility of this constructor to "protected".(ώ¦‘
+E
+java:S1948 ")Make "factory" transient or serializable.(Πάφÿÿÿÿÿ
+;
+java:S1948΅"$Make "windows" private or transient.(ώ¤γ
+Q	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+I
+java:S1172­"-Remove this unused method parameter "config".(τωίύÿÿÿÿ
+R	java:S125©"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ε"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+J
+java:S1172ή".Remove this unused method parameter "docking".(µ±Θΰψÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ΐ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125η"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ώ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(‚³ª§
+R	java:S125•"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125—"<This block of commented-out lines of code should be removed.(‚³ª§
+W	java:S125›"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+{
+java:S6201Ϋ"dReplace this instanceof check and cast with 'instanceof DefaultFocusComponent defaultfocuscomponent'(¬ €ί
+W	java:S125ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+u	java:S115ύ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(χ©Πωÿÿÿÿ
+R	java:S125ς"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125΄"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=
+java:S1168Κ"&Return an empty array instead of null.(¥Ήο
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

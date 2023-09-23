@@ -1,0 +1,63 @@
+
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(β›Β„ωÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ν…›Θ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…‚Β(
+u
+java:S2293π"YReplace the type specification in this constructor call with the diamond operator ("<>").(ϊυϋϊόÿÿÿÿ
+F
+java:S1066¨"/Merge this if statement with the enclosing one.(ο’ψ
+?
+java:S1604"(Make this anonymous inner class a lambda(ΐ‡Χ
+—
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Ο¤
+|
+java:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Σέ‹ 
+
+java:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ύΰύϊÿÿÿÿ
+|
+java:S1149ν"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ΐΔ‚ƒ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125J"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125~"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+u
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(±φ–ÿÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(έςσ±
+C
+java:S1125―"'Remove the unnecessary boolean literal.(§—ΙΗψÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+_
+java:S6355Φ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(υϊ
+L
+java:S1133Χ"5Do not forget to remove this deprecated code someday.(·‡‚μ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+_
+java:S6355ε"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(υϊ
+L
+java:S1133ζ"5Do not forget to remove this deprecated code someday.(Ύωτ—
+W	java:S125Ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ξ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Φ"<This block of commented-out lines of code should be removed.(βΠ€Γ
+W	java:S125έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+>
+java:S1659Σ"'Declare "errCount2" on a separate line.( 
+U
+java:S1155Κ">Use isEmpty() to check whether the collection is empty or not.(®…‹Φ
+W	java:S125Τ"<This block of commented-out lines of code should be removed.(ϊωΜόÿÿÿÿ
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ϋ"<This block of commented-out lines of code should be removed.(έςσ±

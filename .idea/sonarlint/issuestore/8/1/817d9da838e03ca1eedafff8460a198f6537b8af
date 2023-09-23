@@ -1,0 +1,80 @@
+
+J
+java:S3740Q"/Provide the parametrized type for this generic.(¼‘Ëúÿÿÿÿ
+E
+java:S3740a"/Provide the parametrized type for this generic.(¬³É
+J
+java:S3740f"/Provide the parametrized type for this generic.(„§ñûÿÿÿÿ
+E
+java:S3740s"/Provide the parametrized type for this generic.(Ô‹µ
+K
+java:S3740¨"/Provide the parametrized type for this generic.(—Ë­ëûÿÿÿÿ
+F
+java:S3740Õ"/Provide the parametrized type for this generic.(¼ŞßŒ
+u
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛªùØÿÿÿÿÿ
+u
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¾Ùçûÿÿÿÿ
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(­À¦Îøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€Ùö}
+u
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖŞŠÄøÿÿÿÿ
+_
+java:S6208¾"CMerge the previous cases into this one using comma-separated label.(ªëÅŞúÿÿÿÿ
+D
+java:S1604™"(Make this anonymous inner class a lambda(¢“Óƒıÿÿÿÿ
+?
+java:S1604ª"(Make this anonymous inner class a lambda(«´ò
+b
+java:S1301á"KReplace this "switch" statement by "if" statements to increase readability.(•ƒ¶ñ
+j
+java:S3824Š"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(æÁ”ııÿÿÿÿ
+u
+java:S1450b"ZRemove the "windowTable" field and declare it as a local variable in the relevant methods.(È„è¸üÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S1161H":Add the "@Override" annotation above this method signature(•‚İôıÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161U":Add the "@Override" annotation above this method signature(íøºåşÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+E
+java:S1948ö".Make "dockableSets" transient or serializable.(²¤ïÌ
+@
+java:S1948÷")Make "windows" transient or serializable.(Üò‚ğ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(İ¯ù¼
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1905È"(Remove this unnecessary cast to "Entry".(şÏÓÖùÿÿÿÿ
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(æ¹ûÊıÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Û":Add the "@Override" annotation above this method signature(¤õüêûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1905à"(Remove this unnecessary cast to "Entry".(şÏÓÖùÿÿÿÿ
+V
+java:S1161î":Add the "@Override" annotation above this method signature(éÜ“–şÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1905€"(Remove this unnecessary cast to "Entry".(¢©Íıÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

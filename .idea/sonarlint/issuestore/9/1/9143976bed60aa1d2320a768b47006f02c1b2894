@@ -1,0 +1,19 @@
+
+>
+java:S1948t"(Make "buffer" transient or serializable.(ÂÎ×
+Q	java:S125)"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125^"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(İòó±
+H
+java:S1128!"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+[
+java:S1128#"@Remove this unused import 'org.gjt.sp.jedit.buffer.FoldHandler'.(™·ËÑıÿÿÿÿ
+V
+java:S1128$"@Remove this unused import 'org.gjt.sp.jedit.buffer.JEditBuffer'.(¥ùÌ
+>
+java:S1068s"(Remove this unused "view" private field.(ØÊ»¶

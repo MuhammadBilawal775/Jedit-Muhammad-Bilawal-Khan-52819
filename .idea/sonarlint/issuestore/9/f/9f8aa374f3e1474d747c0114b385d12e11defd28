@@ -1,0 +1,59 @@
+
+a	java:S112û"FDefine and throw a dedicated exception instead of using a generic one.(è±øâûÿÿÿÿ
+[	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(ëí©B
+\	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(ÒÄíº
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¨ºÒ
+o
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áæİ¶
+o
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ•äî
+u
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚŒÚøÿÿÿÿ
+p
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á•³Ò
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(çö™Ëşÿÿÿÿ
+d
+java:S1192Y"IDefine a constant instead of duplicating this literal "file:///" 3 times.(„Ó»øúÿÿÿÿ
+c
+java:S1192…"GDefine a constant instead of duplicating this literal "plugin" 4 times.(õØ˜ºùÿÿÿÿ
+R
+java:S4973s"<Strings and Boxed types should be compared using "equals()".(¹¿×İ
+Q
+java:S4973z"<Strings and Boxed types should be compared using "equals()".(İ—¥S
+Q	java:S125%"<This block of commented-out lines of code should be removed.(İòó±
+h
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¸ú¤¶
+?
+java:S1659w")Declare "inputStream" on a separate line.(ö°øç
+U
+java:S4719Š"9Replace charset name argument with StandardCharsets.UTF_8(¿şªÂşÿÿÿÿ
+Q	java:S899™";Do something with the "boolean" value returned by "delete".(¾²Í¬
+e
+java:S4042™"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¾²Í¬
+E
+java:S2093x"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+F
+java:S2093·"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(¥”æç
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(ºÎ•ôøÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(ºÌ¯¶ıÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(§İÆƒøÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(É··¼
+X
+java:S1126“"AReplace this if-then-else statement by a single return statement.(‰Óş­
+X
+java:S1126 "AReplace this if-then-else statement by a single return statement.(‰Óş­
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±

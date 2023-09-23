@@ -1,0 +1,14 @@
+
+c
+java:S1192H"HDefine a constant instead of duplicating this literal "plugin." 4 times.(ªòŠáùÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+f
+java:S6201x"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(ÓæÂÊ
+g
+java:S6201„"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(ÓæÂÊ
+g
+java:S6201"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(ÓæÂÊ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

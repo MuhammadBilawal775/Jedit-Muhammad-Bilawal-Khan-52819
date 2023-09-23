@@ -1,0 +1,33 @@
+
+O
+java:S1874J"4Remove this use of "closeQuietly"; it is deprecated.(œÔ¸™ıÿÿÿÿ
+J
+java:S1874K"4Remove this use of "closeQuietly"; it is deprecated.(Éç¼¬
+E
+java:S2093="*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+U	java:S899O";Do something with the "boolean" value returned by "delete".(›ù–îûÿÿÿÿ
+i
+java:S4042O"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(›ù–îûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+_
+java:S6355ª"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133«"5Do not forget to remove this deprecated code someday.(½éÃ¨
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+_
+java:S6355Á"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133Â"5Do not forget to remove this deprecated code someday.(¾¥İ›
+_
+java:S6355á"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133â"5Do not forget to remove this deprecated code someday.(ù«·Âüÿÿÿÿ
+_
+java:S6355ø"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ù"5Do not forget to remove this deprecated code someday.(§±†®øÿÿÿÿ
+h
+java:S6201œ"LReplace this instanceof check and cast with 'instanceof Flushable flushable'( ÖÒ«ùÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

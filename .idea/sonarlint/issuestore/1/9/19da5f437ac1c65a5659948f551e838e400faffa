@@ -1,0 +1,72 @@
+
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğì“ã
+p
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬‡ıâ
+^
+java:S1192Á"GDefine a constant instead of duplicating this literal ".label" 3 times.(Éö
+`
+java:S1192¿"IDefine a constant instead of duplicating this literal "options." 4 times.(í¯Ê
+]
+java:S1192G"GDefine a constant instead of duplicating this literal ".title" 3 times.(Ì³¬ü
+t	java:S135·"YReduce the total number of break and continue statements in this loop to use at most one.(©ªŒ¬ıÿÿÿÿ
+H
+java:S1948:"-Make "currentPane" transient or serializable.(È‹ğşÿÿÿÿ
+P
+java:S1948;"5Make "deferredOptionPanes" transient or serializable.(ÖìÜ²ıÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+M
+java:S1135-"2Complete the task associated to this TODO comment.(›Ò§àùÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¼ê²±úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+e
+java:S6201¼"NReplace this instanceof check and cast with 'instanceof OptionPane optionpane'(ú–¢í
+f
+java:S6201Ã"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(¯…®=
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125•"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125˜"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(µçµõúÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S6201Š"HReplace this instanceof check and cast with 'instanceof OptionGroup grp'(â®¢ªıÿÿÿÿ
+l
+java:S6201Š"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(â®¢ªıÿÿÿÿ
+^
+java:S6201š"HReplace this instanceof check and cast with 'instanceof OptionPane pane'(˜ŒÉm
+`
+java:S6201¨"DReplace this instanceof check and cast with 'instanceof String pane'(âå‰Øÿÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S6201À"HReplace this instanceof check and cast with 'instanceof OptionGroup grp'(â®¢ªıÿÿÿÿ
+d
+java:S6201É"NReplace this instanceof check and cast with 'instanceof OptionPane optionpane'(˜ŒÉm
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(İòó±
+l
+java:S6201…"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(«Ñòúÿÿÿÿ
+e
+java:S6201Š"NReplace this instanceof check and cast with 'instanceof OptionPane optionpane'(´¦»½
+\
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(ÿÔ‚'
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+g
+java:S6201Ç"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(ÓæÂÊ
+g
+java:S6201Ô"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(ÓæÂÊ
+g
+java:S6201á"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(ÓæÂÊ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

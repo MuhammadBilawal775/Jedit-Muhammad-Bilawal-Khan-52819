@@ -1,0 +1,132 @@
+
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(éğÕó
+\	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(éğÕó
+u
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷üøÏÿÿÿÿÿ
+u
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(™„³Áúÿÿÿÿ
+p
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¥§
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì†„Îùÿÿÿÿ
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì†„Îùÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰»®r
+u
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Î—‘ıÿÿÿÿ
+u
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Î—‘ıÿÿÿÿ
+p
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÄ¾ï
+p
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜š»
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙáÎóûÿÿÿÿ
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã€«èúÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¥“”
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ö³ğ
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÆå¾ùÿÿÿÿ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÿŠ‘ûÿÿÿÿ
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(í—î¿
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(éŒŞğøÿÿÿÿ
+u
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ—šóûÿÿÿÿ
+u
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¢å÷øÿÿÿÿ
+u
+java:S2293ü	"YReplace the type specification in this constructor call with the diamond operator ("<>").(…˜®ıÿÿÿÿ
+u
+java:S2293ı	"YReplace the type specification in this constructor call with the diamond operator ("<>").(­êÆıÿÿÿÿ
+]
+java:S1192›"FDefine a constant instead of duplicating this literal ".jars" 3 times.(ªºßó
+`
+java:S1192›"IDefine a constant instead of duplicating this literal "plugin." 11 times.(ªºßó
+I
+java:S1121i".Extract the assignment out of this expression.(ÃİÙ²úÿÿÿÿ
+D
+java:S1121m".Extract the assignment out of this expression.(Í¾ù¢
+Q
+java:S1141æ"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…éÄÔúÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾èªÊıÿÿÿÿ
+b
+java:S1301¬"KReplace this "switch" statement by "if" statements to increase readability.(ëéş
+d
+java:S3824‘"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¸åÑûøÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125]"<This block of commented-out lines of code should be removed.(İòó±
+H
+java:S1874z"2Remove this use of "SHIFT_MASK"; it is deprecated.(Í‡Ş·
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S1659½"ADeclare "name" and all following declarations on a separate line.(¸ÂşÚ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+E
+java:S1948–")Make "entries" transient or serializable.(µòçìıÿÿÿÿ
+A
+java:S1948˜"*Make "unloaded" transient or serializable.(ââ·ö
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(ïª±è
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÿÑş£
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¥ÄÌıÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ì‰Ìšşÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S4719Ô"9Replace charset name argument with StandardCharsets.UTF_8(ßñ´n
+F
+java:S2093Ñ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ä ¸ú
+Y
+java:S1126â"BReplace this if-then-else statement by a single method invocation.(ô½à’
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(µë¢úÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(àˆ¬ùÿÿÿÿÿ
+W	java:S125œ	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Á
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ô
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

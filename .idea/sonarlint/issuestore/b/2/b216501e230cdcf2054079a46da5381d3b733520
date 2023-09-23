@@ -1,0 +1,23 @@
+
+>
+java:S1948Å"'Make "image" transient or serializable.(Úüí„
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+y
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+y
+java:S2142e"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(–ÛËçÿÿÿÿÿ
+O
+java:S2274c":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+y
+java:S2142x"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(–ÛËçÿÿÿÿÿ
+O
+java:S2274v":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+V	java:S125|"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+L
+java:S2446²"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(İòó±

@@ -1,0 +1,18 @@
+
+S
+java:S2387Á"<"textArea" is the name of a field in "TextAreaMouseHandler".(ñğ¦•
+Q	java:S125!"<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Õ¼‘…úÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1874F"4Remove this use of "getModifiers"; it is deprecated.(Öñ”åıÿÿÿÿ
+Q
+java:S2696K"6Make the enclosing method "static" or remove this set.(ƒ«şşÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1874§"4Remove this use of "getModifiers"; it is deprecated.(­óé¤ıÿÿÿÿ
+R
+java:S2696ª"6Make the enclosing method "static" or remove this set.(ƒ«şşÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(İòó±

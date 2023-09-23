@@ -1,0 +1,71 @@
+
+E
+java:S3740€"/Provide the parametrized type for this generic.(Έ¨_
+F
+java:S3740ζ"/Provide the parametrized type for this generic.(°γ§
+p
+java:S2293θ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ϊψ„
+E
+java:S1066}"/Merge this if statement with the enclosing one.(³Ο­σ
+f	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Μέt
+l	java:S117Θ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σ±Ωόÿÿÿÿ
+D
+java:S1604«"(Make this anonymous inner class a lambda(Υ‰²­ύÿÿÿÿ
+o
+java:S1104F"TMake MAXLINES a static final constant or non-public and provide accessors if needed.(π§―†ÿÿÿÿÿ
+I
+java:S1444F".Make this "public static MAXLINES" field final(π§―†ÿÿÿÿÿ
+(
+java:S1700ΰ"Rename field "log"(μκΌ:
+u	java:S115ε"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£Πδώÿÿÿÿ
+n
+java:S3008F"SRename this field "MAXLINES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(π§―†ÿÿÿÿÿ
+U
+java:S1118?":Add a private constructor to hide the implicit public one.(΄Έ›ϋώÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(έςσ±
+Q	java:S125j"<This block of commented-out lines of code should be removed.(έςσ±
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(³Ο­σ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(³Ο­σ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+h
+java:S6201Β"LReplace this instanceof check and cast with 'instanceof Throwable throwable'(§Χ¥ªÿÿÿÿÿ
+W	java:S125Ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125π"<This block of commented-out lines of code should be removed.(έςσ±
+O	java:S106ψ"9Replace this use of System.out or System.err by a logger.(²ςρ
+O	java:S106ω"9Replace this use of System.out or System.err by a logger.(ΝΙΕÿ
+<
+java:S2386€"%Make member "throwables" "protected".(Η¨ÒΓ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ω΄έκ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+d	java:S100Ά"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ώ£Κλ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=	java:S131Ò""Add a default case to this switch.(¶«ζψωÿÿÿÿ
+W	java:S125α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125γ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161ζ":Add the "@Override" annotation above this method signature(ΗΕ
+W	java:S125Ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(ΏΖόθ
+W	java:S125“"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

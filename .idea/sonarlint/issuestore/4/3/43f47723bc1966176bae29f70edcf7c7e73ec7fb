@@ -1,0 +1,55 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(óõŒÚøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(óõŒÚøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¹£ªÖúÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¹£ªÖúÿÿÿÿ
+F
+java:S3740”"/Provide the parametrized type for this generic.(«Œéš
+F
+java:S3740§"/Provide the parametrized type for this generic.(«Œéš
+K
+java:S3740°"/Provide the parametrized type for this generic.(Â…üÿÿÿÿ
+F
+java:S3740Ğ"/Provide the parametrized type for this generic.(«Œéš
+K
+java:S3740ë"/Provide the parametrized type for this generic.(Â…üÿÿÿÿ
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(Â…üÿÿÿÿ
+d
+java:S1192}"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(øˆ¯Íøÿÿÿÿ
+X
+java:S4973ã"<Strings and Boxed types should be compared using "equals()".(õé³ÿÿÿÿÿ
+X
+java:S4973æ"<Strings and Boxed types should be compared using "equals()".(¤¥ÅÜúÿÿÿÿ
+X
+java:S4973ş"<Strings and Boxed types should be compared using "equals()".(õé³ÿÿÿÿÿ
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¤¥ÅÜúÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óõŒÚøÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¹£ªÖúÿÿÿÿ
+v
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ğ“Ö›
+t
+java:S1171("YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+m
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ŸåÈ×ùÿÿÿÿ
+U
+java:S1161x":Add the "@Override" annotation above this method signature(ŸåÈ×ùÿÿÿÿ
+H
+java:S1874Ò"1Remove this use of "getPrefix"; it is deprecated.(ªÍ­
+O
+java:S1874Ó"3Remove this use of "getFullpath"; it is deprecated.(¼‘ÓÄøÿÿÿÿ
+H
+java:S1874í"1Remove this use of "getPrefix"; it is deprecated.(ªÍ­
+O
+java:S1874î"3Remove this use of "getFullpath"; it is deprecated.(¼‘ÓÄøÿÿÿÿ
+O
+java:S1874•"3Remove this use of "getFullpath"; it is deprecated.(¼‘ÓÄøÿÿÿÿ
+M
+java:S1874™"1Remove this use of "getPrefix"; it is deprecated.(Š„†Ûüÿÿÿÿ

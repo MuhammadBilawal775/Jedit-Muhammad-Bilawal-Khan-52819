@@ -1,0 +1,33 @@
+
+K
+java:S3740‹"/Provide the parametrized type for this generic.(•›å¼øÿÿÿÿ
+K
+java:S3740¥"/Provide the parametrized type for this generic.(•›å¼øÿÿÿÿ
+O
+java:S5993%"9Change the visibility of this constructor to "protected".(•ðïù
+O
+java:S5993+"9Change the visibility of this constructor to "protected".(¯–ûê
+B
+java:S1948P",Make "keyHandler" transient or serializable.(Æ­õ¡
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡þµœ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(Ýòó±
+P
+java:S1161V":Add the "@Override" annotation above this method signature(ì—ø÷
+P
+java:S1161[":Add the "@Override" annotation above this method signature(æâ¹Æ
+]
+java:S6201c"GReplace this instanceof check and cast with 'instanceof Container cont'(ƒÈ²Ý
+]
+java:S6201r"GReplace this instanceof check and cast with 'instanceof Container cont'(ƒÈ²Ý
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(›ÄïÚ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(›ÄïÚ
+^
+java:S6201‰"HReplace this instanceof check and cast with 'instanceof JComboBox combo'(ºß‚ 
+I
+java:S1135š"2Complete the task associated to this TODO comment.(í–µ¸
+^
+java:S6201£"HReplace this instanceof check and cast with 'instanceof JComboBox combo'(ºß‚ 
+V
+java:S1161³":Add the "@Override" annotation above this method signature(šüÝûÿÿÿÿ

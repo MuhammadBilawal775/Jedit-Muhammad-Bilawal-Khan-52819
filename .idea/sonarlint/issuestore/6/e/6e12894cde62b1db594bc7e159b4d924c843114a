@@ -1,0 +1,60 @@
+
+`
+java:S1192V"JDefine a constant instead of duplicating this literal "clipboard" 4 times.(ÕÅ¾÷
+K
+java:S1066¶"/Merge this if statement with the enclosing one.(Š‰îÜÿÿÿÿÿ
+4
+java:S1700İ"Rename field "registers"(„§¾áúÿÿÿÿ
+<
+java:S1659Ş"%Declare "loading" on a separate line.(÷á·«
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125s"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(³×±ˆùÿÿÿÿ
+D	java:S108µ")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+a
+java:S2147„"ECombine this catch with the one at line 256, which has the same body.(É˜Ùúÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(˜†ô†
+i	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Êôäøÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+a
+java:S2147¦"ECombine this catch with the one at line 418, which has the same body.(É˜Ùúÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(İòó±
+_
+java:S6355¸"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133¹"5Do not forget to remove this deprecated code someday.(çÚ¦ˆøÿÿÿÿ
+D
+java:S1123¹"(Add the missing @deprecated Javadoc tag.(çÚ¦ˆøÿÿÿÿ
+_
+java:S6355Á"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Â"5Do not forget to remove this deprecated code someday.(û’ì™şÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+3
+java:S2225ƒ"Return empty string instead.(¥¹ï
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+3
+java:S2225·"Return empty string instead.(¥¹ï
+a
+java:S2147Â"ECombine this catch with the one at line 830, which has the same body.(É˜Ùúÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(İòó±

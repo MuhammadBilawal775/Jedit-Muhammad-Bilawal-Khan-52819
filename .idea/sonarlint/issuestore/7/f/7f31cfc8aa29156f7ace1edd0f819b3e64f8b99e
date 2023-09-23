@@ -1,0 +1,96 @@
+
+[	java:S112û"FDefine and throw a dedicated exception instead of using a generic one.(ò˜œn
+J
+java:S3740{"/Provide the parametrized type for this generic.(”Àùÿÿÿÿ
+J
+java:S3740{"/Provide the parametrized type for this generic.(”Àùÿÿÿÿ
+J
+java:S3740|"/Provide the parametrized type for this generic.(çïäœøÿÿÿÿ
+J
+java:S3740|"/Provide the parametrized type for this generic.(çïäœøÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(ÈÓûµıÿÿÿÿ
+K
+java:S3740˜"/Provide the parametrized type for this generic.(ËÂøÿÿÿÿÿ
+K
+java:S3740¯"/Provide the parametrized type for this generic.(¼»‚÷úÿÿÿÿ
+K
+java:S3740º"/Provide the parametrized type for this generic.(¼»‚÷úÿÿÿÿ
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(û‘Ãüÿÿÿÿ
+K
+java:S3740˜"/Provide the parametrized type for this generic.(öµó£ùÿÿÿÿ
+F
+java:S3740ë"/Provide the parametrized type for this generic.(»à©
+K
+java:S3740î"/Provide the parametrized type for this generic.(Œ½áİıÿÿÿÿ
+K
+java:S3740§"/Provide the parametrized type for this generic.(—Ùˆ¡úÿÿÿÿ
+K
+java:S3740§"/Provide the parametrized type for this generic.(—Ùˆ¡úÿÿÿÿ
+K
+java:S3740¨"/Provide the parametrized type for this generic.(ñ¯ÎŒûÿÿÿÿ
+K
+java:S3740ª"/Provide the parametrized type for this generic.(Ë˜™úÿÿÿÿ
+K
+java:S3740±"/Provide the parametrized type for this generic.(ˆ§·ûÿÿÿÿ
+K
+java:S1066¹"/Merge this if statement with the enclosing one.(İ°Ûøÿÿÿÿ
+F
+java:S1066Á"/Merge this if statement with the enclosing one.(©•Øš
+K
+java:S1066É"/Merge this if statement with the enclosing one.(ßèÌ„ûÿÿÿÿ
+m
+java:S2095…"VUse try-with-resources or close this "DiscreteFilesClassLoader" in a "finally" clause.(¾ˆûë
+€
+java:S1149{"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”Àùÿÿÿÿ
+
+java:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—Ùˆ¡úÿÿÿÿ
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ã±ÊÔ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(Ã±ÊÔ
+D	java:S108¼")Either remove or fill this block of code.(÷­ë®úÿÿÿÿ
+D	java:S108Ä")Either remove or fill this block of code.(÷­ë®úÿÿÿÿ
+D	java:S108Ì")Either remove or fill this block of code.(÷­ë®úÿÿÿÿ
+a
+java:S2147Û"ECombine this catch with the one at line 218, which has the same body.(±¶úÍøÿÿÿÿ
+D	java:S108Û")Either remove or fill this block of code.(±¶úÍøÿÿÿÿ
+D	java:S108â")Either remove or fill this block of code.(÷­ë®úÿÿÿÿ
+P
+java:S1161ô":Add the "@Override" annotation above this method signature(¸ã˜#
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(Ö„¦Èúÿÿÿÿ
+V
+java:S1161š":Add the "@Override" annotation above this method signature(ÍÆŠ‘şÿÿÿÿ
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(Øû¬¯
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(İáÂå
+V
+java:S1161Ä":Add the "@Override" annotation above this method signature(ğˆàÇúÿÿÿÿ
+P
+java:S1161Ú":Add the "@Override" annotation above this method signature(©é5
+E
+java:S1905Š")Remove this unnecessary cast to "String".(‡ØÂûÿÿÿÿ
+V
+java:S1161•":Add the "@Override" annotation above this method signature(°¾¸íøÿÿÿÿ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(×Áà÷ÿÿÿÿÿ
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(ë±ñúÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(ü©‡îøÿÿÿÿ
+V
+java:S1161Ş":Add the "@Override" annotation above this method signature(Õµ øıÿÿÿÿ
+Q
+java:S1161ä":Add the "@Override" annotation above this method signature(ñ‘ÔÙ
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(±‰¿î
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¦Ä«Òıÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(¾Â’³
+V
+java:S1161":Add the "@Override" annotation above this method signature(Œ¥ä¸úÿÿÿÿ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(¦ôİÕùÿÿÿÿ
+Q
+java:S1161µ":Add the "@Override" annotation above this method signature(¹şÇ…

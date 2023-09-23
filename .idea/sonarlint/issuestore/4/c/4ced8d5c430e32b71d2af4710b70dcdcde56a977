@@ -1,0 +1,66 @@
+
+J
+java:S3740H"/Provide the parametrized type for this generic.(ž™ô³ýÿÿÿÿ
+J
+java:S3740H"/Provide the parametrized type for this generic.(ž™ô³ýÿÿÿÿ
+J
+java:S3740I"/Provide the parametrized type for this generic.(ÓÑÜ‚úÿÿÿÿ
+K
+java:S3740¢"/Provide the parametrized type for this generic.(Ý“ñ§ûÿÿÿÿ
+K
+java:S3740®"/Provide the parametrized type for this generic.(‚©²Þûÿÿÿÿ
+I
+java:S1121h".Extract the assignment out of this expression.(±¶ëäÿÿÿÿÿ
+o	java:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(Üò¬ü
+H
+java:S1948¤"1Make "documentHandler" transient or serializable.(€òø€
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Ýòó±
+P	java:S125Q"<This block of commented-out lines of code should be removed.(¤ëâ
+M
+java:S1874a"2Remove this use of "SHIFT_MASK"; it is deprecated.(Û÷‹Ìÿÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125©"<This block of commented-out lines of code should be removed.(Ýòó±
+c
+java:S6201±"LReplace this instanceof check and cast with 'instanceof Character character'(Ü´·ž
+`
+java:S4201±"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ü´·ž
+L
+java:S1874À"0Remove this use of "toString"; it is deprecated.(üÆäùÿÿÿÿ
+W	java:S125Ð"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+`
+java:S4201Ö"IRemove this unnecessary null check; "instanceof" returns false for nulls.(õã”
+G
+java:S1874Ù"0Remove this use of "toString"; it is deprecated.(î×‡æ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+c
+java:S6201é"LReplace this instanceof check and cast with 'instanceof Character character'(Ü´·ž
+`
+java:S4201é"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ü´·ž
+W	java:S125î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ð"<This block of commented-out lines of code should be removed.(Ýòó±
+h
+java:S6201ÿ"LReplace this instanceof check and cast with 'instanceof Character character'(¤…çÔýÿÿÿÿ
+L
+java:S1874™"0Remove this use of "toString"; it is deprecated.(£úï¦ÿÿÿÿÿ
+^
+java:S5361œ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ù‘ÿd
+d
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¥Á©žøÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+G
+java:S1874Ç"0Remove this use of "toString"; it is deprecated.(Ë¾ž
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+A
+java:S3398æ"%Move this method into "ClearHandler".(˜çÂÐøÿÿÿÿ

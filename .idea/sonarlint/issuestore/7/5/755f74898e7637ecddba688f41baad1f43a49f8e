@@ -1,0 +1,21 @@
+
+n	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ð"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¼Ã’Éúÿÿÿÿ
+W	java:S125Ž"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+]
+java:S6201‹"FReplace this instanceof check and cast with 'instanceof String string'(ø¨×
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+B
+java:S3398‘"&Move this method into "ActionHandler".(¼Ã’Éúÿÿÿÿ
+B
+java:S3398ó"&Move this method into "ActionHandler".(¼¬ë§ùÿÿÿÿ

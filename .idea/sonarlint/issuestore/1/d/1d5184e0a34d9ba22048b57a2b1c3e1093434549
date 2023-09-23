@@ -1,0 +1,537 @@
+
+J
+java:S3740I"/Provide the parametrized type for this generic.(Íé˜¶ıÿÿÿÿ
+J
+java:S3740I"/Provide the parametrized type for this generic.(Íé˜¶ıÿÿÿÿ
+K
+java:S3740«"/Provide the parametrized type for this generic.(ÜÎğŒøÿÿÿÿ
+K
+java:S3740Ì"/Provide the parametrized type for this generic.(€ä×úÿÿÿÿ
+F
+java:S3740Í"/Provide the parametrized type for this generic.(’´Êæ
+K
+java:S3740ò"/Provide the parametrized type for this generic.(© ²ºıÿÿÿÿ
+E
+java:S3740Ü"/Provide the parametrized type for this generic.(õäÕt
+F
+java:S3740î"/Provide the parametrized type for this generic.(©Ëéå
+K
+java:S3740‚"/Provide the parametrized type for this generic.(éÏ§ÿÿÿÿÿ
+K
+java:S3740‚"/Provide the parametrized type for this generic.(éÏ§ÿÿÿÿÿ
+F
+java:S3740„"/Provide the parametrized type for this generic.(—Ääœ
+F
+java:S3740"/Provide the parametrized type for this generic.(Ï·®
+F
+java:S3740"/Provide the parametrized type for this generic.(Ï·®
+F
+java:S3740’"/Provide the parametrized type for this generic.(Ş­É
+F
+java:S3740¡"/Provide the parametrized type for this generic.(É€ùŞ
+K
+java:S3740»"/Provide the parametrized type for this generic.(Ê êÒÿÿÿÿÿ
+K
+java:S3740»"/Provide the parametrized type for this generic.(Ê êÒÿÿÿÿÿ
+K
+java:S3740“"/Provide the parametrized type for this generic.(½ÂÑáúÿÿÿÿ
+K
+java:S3740¡"/Provide the parametrized type for this generic.(¢ÀœÅøÿÿÿÿ
+Z
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ÙŸİê
+Z
+java:S6208’"CMerge the previous cases into this one using comma-separated label.(×£ÄÔ
+Z
+java:S6208¤"CMerge the previous cases into this one using comma-separated label.(‰åã
+Z
+java:S6208¨"CMerge the previous cases into this one using comma-separated label.(öè÷±
+Z
+java:S6208¯"CMerge the previous cases into this one using comma-separated label.(ÇÃ˜†
+Z
+java:S6208³"CMerge the previous cases into this one using comma-separated label.(Ã­§˜
+_
+java:S6208Ë"CMerge the previous cases into this one using comma-separated label.(¤Â¡šÿÿÿÿÿ
+_
+java:S6208Ï"CMerge the previous cases into this one using comma-separated label.(£Ñœòúÿÿÿÿ
+_
+java:S6208Ó"CMerge the previous cases into this one using comma-separated label.(Ş¼¶£üÿÿÿÿ
+_
+java:S6208×"CMerge the previous cases into this one using comma-separated label.(³Èö®úÿÿÿÿ
+Z
+java:S6208Û"CMerge the previous cases into this one using comma-separated label.(ğ²‚ñ
+Z
+java:S6208ñ"CMerge the previous cases into this one using comma-separated label.(‰åã
+Z
+java:S6208õ"CMerge the previous cases into this one using comma-separated label.(öè÷±
+Z
+java:S6208ü"CMerge the previous cases into this one using comma-separated label.(ÇÃ˜†
+Z
+java:S6208€"CMerge the previous cases into this one using comma-separated label.(Ã­§˜
+_
+java:S6208˜"CMerge the previous cases into this one using comma-separated label.(¤Â¡šÿÿÿÿÿ
+_
+java:S6208œ"CMerge the previous cases into this one using comma-separated label.(£Ñœòúÿÿÿÿ
+_
+java:S6208 "CMerge the previous cases into this one using comma-separated label.(Ş¼¶£üÿÿÿÿ
+_
+java:S6208¤"CMerge the previous cases into this one using comma-separated label.(³Èö®úÿÿÿÿ
+Z
+java:S6208¨"CMerge the previous cases into this one using comma-separated label.(ğ²‚ñ
+Z
+java:S6208¿"CMerge the previous cases into this one using comma-separated label.(‰åã
+Z
+java:S6208Ã"CMerge the previous cases into this one using comma-separated label.(öè÷±
+Z
+java:S6208Ê"CMerge the previous cases into this one using comma-separated label.(ÇÃ˜†
+Z
+java:S6208Î"CMerge the previous cases into this one using comma-separated label.(Ã­§˜
+_
+java:S6208ê"CMerge the previous cases into this one using comma-separated label.(Ş¼¶£üÿÿÿÿ
+Z
+java:S6208ı"CMerge the previous cases into this one using comma-separated label.(‰åã
+Z
+java:S6208"CMerge the previous cases into this one using comma-separated label.(öè÷±
+Z
+java:S6208ˆ"CMerge the previous cases into this one using comma-separated label.(ÇÃ˜†
+Z
+java:S6208Œ"CMerge the previous cases into this one using comma-separated label.(Ã­§˜
+_
+java:S6208¨"CMerge the previous cases into this one using comma-separated label.(Ş¼¶£üÿÿÿÿ
+J
+java:S1121Î".Extract the assignment out of this expression.(°×…®ÿÿÿÿÿ
+E
+java:S1121Õ".Extract the assignment out of this expression.(±Ç¡Ÿ
+J
+java:S1121Ü".Extract the assignment out of this expression.(ŞÉ½«ıÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇÔõúÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇÔõúÿÿÿÿ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬¡ç
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬¡ç
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø™¡ÿÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø™¡ÿÿÿÿÿ
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëõÔ
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëõÔ
+l	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ¡Êúÿÿÿÿ
+l	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ¡Êúÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¶†£ıÿÿÿÿ
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©Ïù
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù´ñ¼
+l	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖä£øÿÿÿÿ
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìŞŠ
+a
+java:S1301—"KReplace this "switch" statement by "if" statements to increase readability.(»ö¥c
+=
+java:S1948^"'Make "value" transient or serializable.(şû½ˆ
+q
+java:S1149I"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Íé˜¶ıÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(‡õß×ıÿÿÿÿ
+8
+java:S2129…"!Remove this "Boolean" constructor(Áš‰š
+_
+java:S5738…"HRemove this call to a deprecated method, it has been marked for removal.(Áš‰š
+5
+java:S2129†"Remove this "Byte" constructor(¬Ó¼”
+_
+java:S5738†"HRemove this call to a deprecated method, it has been marked for removal.(¬Ó¼”
+6
+java:S2129‡"Remove this "Short" constructor(·µàç
+_
+java:S5738‡"HRemove this call to a deprecated method, it has been marked for removal.(·µàç
+:
+java:S2129ˆ"#Remove this "Character" constructor(›½êĞ
+_
+java:S5738ˆ"HRemove this call to a deprecated method, it has been marked for removal.(›½êĞ
+8
+java:S2129‰"!Remove this "Integer" constructor(ÄÆøË
+_
+java:S5738‰"HRemove this call to a deprecated method, it has been marked for removal.(ÄÆøË
+5
+java:S2129Š"Remove this "Long" constructor(‰¸—
+_
+java:S5738Š"HRemove this call to a deprecated method, it has been marked for removal.(‰¸—
+6
+java:S2129‹"Remove this "Float" constructor(€»§å
+_
+java:S5738‹"HRemove this call to a deprecated method, it has been marked for removal.(€»§å
+<
+java:S2129Œ" Remove this "Double" constructor(ÁéË¢şÿÿÿÿ
+d
+java:S5738Œ"HRemove this call to a deprecated method, it has been marked for removal.(ÁéË¢şÿÿÿÿ
+h
+java:S6201Ğ"LReplace this instanceof check and cast with 'instanceof Primitive primitive'(ÛİÈ„ıÿÿÿÿ
+c
+java:S6201Ò"LReplace this instanceof check and cast with 'instanceof Primitive primitive'(ƒÊ—¨
+d
+java:S6201ò"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(Íà¿Éşÿÿÿÿ
+^
+java:S6201ô"HReplace this instanceof check and cast with 'instanceof Integer integer'(ĞÛÏ!
+Y
+java:S6201ö"BReplace this instanceof check and cast with 'instanceof Long long'(µË
+[
+java:S6201ø"DReplace this instanceof check and cast with 'instanceof Float float'(ûü
+]
+java:S6201ú"FReplace this instanceof check and cast with 'instanceof Double double'(æ·ü
+=
+java:S2129ˆ"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+d
+java:S5738ˆ"HRemove this call to a deprecated method, it has been marked for removal.(ÇŠ·èûÿÿÿÿ
+7
+java:S2129‹"!Remove this "Boolean" constructor(åÅı.
+^
+java:S5738‹"HRemove this call to a deprecated method, it has been marked for removal.(åÅı.
+8
+java:S2129"!Remove this "Boolean" constructor(µ‡Í³
+_
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(µ‡Í³
+8
+java:S2129“"!Remove this "Boolean" constructor(à©´
+_
+java:S5738“"HRemove this call to a deprecated method, it has been marked for removal.(à©´
+=
+java:S2129¥"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+d
+java:S5738¥"HRemove this call to a deprecated method, it has been marked for removal.(ßš¨Œúÿÿÿÿ
+=
+java:S2129©"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+d
+java:S5738©"HRemove this call to a deprecated method, it has been marked for removal.(—¤ûúÿÿÿÿ
+=
+java:S2129¬"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+d
+java:S5738¬"HRemove this call to a deprecated method, it has been marked for removal.(ÇŠ·èûÿÿÿÿ
+=
+java:S2129°"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+d
+java:S5738°"HRemove this call to a deprecated method, it has been marked for removal.(Èí¨úÿÿÿÿ
+8
+java:S2129´"!Remove this "Boolean" constructor(ÇæÍı
+_
+java:S5738´"HRemove this call to a deprecated method, it has been marked for removal.(ÇæÍı
+7
+java:S2129·"!Remove this "Boolean" constructor(åÅı.
+^
+java:S5738·"HRemove this call to a deprecated method, it has been marked for removal.(åÅı.
+:
+java:S2129»"Remove this "Long" constructor(Ñ–å¼şÿÿÿÿ
+d
+java:S5738»"HRemove this call to a deprecated method, it has been marked for removal.(Ñ–å¼şÿÿÿÿ
+:
+java:S2129¾"Remove this "Long" constructor(‘¾›ıúÿÿÿÿ
+d
+java:S5738¾"HRemove this call to a deprecated method, it has been marked for removal.(‘¾›ıúÿÿÿÿ
+5
+java:S2129Á"Remove this "Long" constructor(Ïû´±
+_
+java:S5738Á"HRemove this call to a deprecated method, it has been marked for removal.(Ïû´±
+:
+java:S2129Ä"Remove this "Long" constructor(Ÿèôûÿÿÿÿ
+d
+java:S5738Ä"HRemove this call to a deprecated method, it has been marked for removal.(Ÿèôûÿÿÿÿ
+:
+java:S2129Ç"Remove this "Long" constructor(ƒÚ¡ãÿÿÿÿÿ
+d
+java:S5738Ç"HRemove this call to a deprecated method, it has been marked for removal.(ƒÚ¡ãÿÿÿÿÿ
+:
+java:S2129Ì"Remove this "Long" constructor(¥ÀÅşÿÿÿÿ
+d
+java:S5738Ì"HRemove this call to a deprecated method, it has been marked for removal.(¥ÀÅşÿÿÿÿ
+:
+java:S2129Ğ"Remove this "Long" constructor(Ôİÿúÿÿÿÿ
+d
+java:S5738Ğ"HRemove this call to a deprecated method, it has been marked for removal.(Ôİÿúÿÿÿÿ
+:
+java:S2129Ô"Remove this "Long" constructor(Ä•Û´ùÿÿÿÿ
+d
+java:S5738Ô"HRemove this call to a deprecated method, it has been marked for removal.(Ä•Û´ùÿÿÿÿ
+5
+java:S2129Ø"Remove this "Long" constructor(¶˜Çª
+_
+java:S5738Ø"HRemove this call to a deprecated method, it has been marked for removal.(¶˜Çª
+5
+java:S2129Ü"Remove this "Long" constructor(¶Æ‹»
+_
+java:S5738Ü"HRemove this call to a deprecated method, it has been marked for removal.(¶Æ‹»
+:
+java:S2129ß"Remove this "Long" constructor(¼õùéüÿÿÿÿ
+d
+java:S5738ß"HRemove this call to a deprecated method, it has been marked for removal.(¼õùéüÿÿÿÿ
+=
+java:S2129ò"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+d
+java:S5738ò"HRemove this call to a deprecated method, it has been marked for removal.(ßš¨Œúÿÿÿÿ
+=
+java:S2129ö"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+d
+java:S5738ö"HRemove this call to a deprecated method, it has been marked for removal.(—¤ûúÿÿÿÿ
+=
+java:S2129ù"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+d
+java:S5738ù"HRemove this call to a deprecated method, it has been marked for removal.(ÇŠ·èûÿÿÿÿ
+=
+java:S2129ı"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+d
+java:S5738ı"HRemove this call to a deprecated method, it has been marked for removal.(Èí¨úÿÿÿÿ
+8
+java:S2129"!Remove this "Boolean" constructor(ÇæÍı
+_
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÇæÍı
+7
+java:S2129„"!Remove this "Boolean" constructor(åÅı.
+^
+java:S5738„"HRemove this call to a deprecated method, it has been marked for removal.(åÅı.
+=
+java:S2129ˆ"!Remove this "Integer" constructor(ÔÂÍ·üÿÿÿÿ
+d
+java:S5738ˆ"HRemove this call to a deprecated method, it has been marked for removal.(ÔÂÍ·üÿÿÿÿ
+8
+java:S2129‹"!Remove this "Integer" constructor(¸¡ÂÕ
+_
+java:S5738‹"HRemove this call to a deprecated method, it has been marked for removal.(¸¡ÂÕ
+8
+java:S2129"!Remove this "Integer" constructor(¸‰á
+_
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¸‰á
+8
+java:S2129‘"!Remove this "Integer" constructor(¾‚âÙ
+_
+java:S5738‘"HRemove this call to a deprecated method, it has been marked for removal.(¾‚âÙ
+=
+java:S2129”"!Remove this "Integer" constructor(¤¼­üÿÿÿÿ
+d
+java:S5738”"HRemove this call to a deprecated method, it has been marked for removal.(¤¼­üÿÿÿÿ
+8
+java:S2129™"!Remove this "Integer" constructor(ÈÊ‰Ş
+_
+java:S5738™"HRemove this call to a deprecated method, it has been marked for removal.(ÈÊ‰Ş
+8
+java:S2129"!Remove this "Integer" constructor(…‚”³
+_
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(…‚”³
+7
+java:S2129¡"!Remove this "Integer" constructor(°´U
+^
+java:S5738¡"HRemove this call to a deprecated method, it has been marked for removal.(°´U
+8
+java:S2129¥"!Remove this "Integer" constructor(Ù‰¥¢
+_
+java:S5738¥"HRemove this call to a deprecated method, it has been marked for removal.(Ù‰¥¢
+8
+java:S2129©"!Remove this "Integer" constructor(ÆöÂŠ
+_
+java:S5738©"HRemove this call to a deprecated method, it has been marked for removal.(ÆöÂŠ
+=
+java:S2129¬"!Remove this "Integer" constructor(œÉõäşÿÿÿÿ
+d
+java:S5738¬"HRemove this call to a deprecated method, it has been marked for removal.(œÉõäşÿÿÿÿ
+=
+java:S2129À"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+d
+java:S5738À"HRemove this call to a deprecated method, it has been marked for removal.(ßš¨Œúÿÿÿÿ
+=
+java:S2129Ä"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+d
+java:S5738Ä"HRemove this call to a deprecated method, it has been marked for removal.(—¤ûúÿÿÿÿ
+=
+java:S2129Ç"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+d
+java:S5738Ç"HRemove this call to a deprecated method, it has been marked for removal.(ÇŠ·èûÿÿÿÿ
+=
+java:S2129Ë"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+d
+java:S5738Ë"HRemove this call to a deprecated method, it has been marked for removal.(Èí¨úÿÿÿÿ
+8
+java:S2129Ï"!Remove this "Boolean" constructor(ÇæÍı
+_
+java:S5738Ï"HRemove this call to a deprecated method, it has been marked for removal.(ÇæÍı
+7
+java:S2129Ò"!Remove this "Boolean" constructor(åÅı.
+^
+java:S5738Ò"HRemove this call to a deprecated method, it has been marked for removal.(åÅı.
+<
+java:S2129Ö" Remove this "Double" constructor(ş¹ƒ‰ÿÿÿÿÿ
+d
+java:S5738Ö"HRemove this call to a deprecated method, it has been marked for removal.(ş¹ƒ‰ÿÿÿÿÿ
+7
+java:S2129Ù" Remove this "Double" constructor(äÓ‡Ù
+_
+java:S5738Ù"HRemove this call to a deprecated method, it has been marked for removal.(äÓ‡Ù
+7
+java:S2129Ü" Remove this "Double" constructor(èÄåô
+_
+java:S5738Ü"HRemove this call to a deprecated method, it has been marked for removal.(èÄåô
+<
+java:S2129ß" Remove this "Double" constructor(Š¶ƒøúÿÿÿÿ
+d
+java:S5738ß"HRemove this call to a deprecated method, it has been marked for removal.(Š¶ƒøúÿÿÿÿ
+<
+java:S2129â" Remove this "Double" constructor(¾¤ƒ‡ÿÿÿÿÿ
+d
+java:S5738â"HRemove this call to a deprecated method, it has been marked for removal.(¾¤ƒ‡ÿÿÿÿÿ
+=
+java:S2129ş"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+d
+java:S5738ş"HRemove this call to a deprecated method, it has been marked for removal.(ßš¨Œúÿÿÿÿ
+=
+java:S2129‚"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+d
+java:S5738‚"HRemove this call to a deprecated method, it has been marked for removal.(—¤ûúÿÿÿÿ
+=
+java:S2129…"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+d
+java:S5738…"HRemove this call to a deprecated method, it has been marked for removal.(ÇŠ·èûÿÿÿÿ
+=
+java:S2129‰"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+d
+java:S5738‰"HRemove this call to a deprecated method, it has been marked for removal.(Èí¨úÿÿÿÿ
+8
+java:S2129"!Remove this "Boolean" constructor(ÇæÍı
+_
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÇæÍı
+7
+java:S2129"!Remove this "Boolean" constructor(åÅı.
+^
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(åÅı.
+;
+java:S2129”"Remove this "Float" constructor(ÑÁ²ºüÿÿÿÿ
+d
+java:S5738”"HRemove this call to a deprecated method, it has been marked for removal.(ÑÁ²ºüÿÿÿÿ
+;
+java:S2129—"Remove this "Float" constructor(šîÓäÿÿÿÿÿ
+d
+java:S5738—"HRemove this call to a deprecated method, it has been marked for removal.(šîÓäÿÿÿÿÿ
+;
+java:S2129š"Remove this "Float" constructor(öšìıÿÿÿÿ
+d
+java:S5738š"HRemove this call to a deprecated method, it has been marked for removal.(öšìıÿÿÿÿ
+;
+java:S2129"Remove this "Float" constructor(³ÿ½Äÿÿÿÿÿ
+d
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(³ÿ½Äÿÿÿÿÿ
+;
+java:S2129 "Remove this "Float" constructor(®¨ºıÿÿÿÿ
+d
+java:S5738 "HRemove this call to a deprecated method, it has been marked for removal.(®¨ºıÿÿÿÿ
+h
+java:S6201¶"LReplace this instanceof check and cast with 'instanceof Character character'(êŞö®şÿÿÿÿ
+<
+java:S2153·"%Remove the unboxing from "Character".(´Ì›Œ
+8
+java:S2129·"!Remove this "Integer" constructor(´Ì›Œ
+_
+java:S5738·"HRemove this call to a deprecated method, it has been marked for removal.(´Ì›Œ
+=
+java:S2129¹"!Remove this "Integer" constructor(Ë€‘äøÿÿÿÿ
+d
+java:S5738¹"HRemove this call to a deprecated method, it has been marked for removal.(Ë€‘äøÿÿÿÿ
+n
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Õùèûÿÿÿÿ
+`
+java:S6201Ç"DReplace this instanceof check and cast with 'instanceof Number lnum'( ¬Î›şÿÿÿÿ
+7
+java:S2129Ñ" Remove this "Double" constructor(ÏùÌ£
+_
+java:S5738Ñ"HRemove this call to a deprecated method, it has been marked for removal.(ÏùÌ£
+7
+java:S2129Ó" Remove this "Double" constructor(®şø
+_
+java:S5738Ó"HRemove this call to a deprecated method, it has been marked for removal.(®şø
+;
+java:S2129Ø"Remove this "Float" constructor(ÕúĞ‰ıÿÿÿÿ
+d
+java:S5738Ø"HRemove this call to a deprecated method, it has been marked for removal.(ÕúĞ‰ıÿÿÿÿ
+;
+java:S2129Ú"Remove this "Float" constructor(¼Ó¥€şÿÿÿÿ
+d
+java:S5738Ú"HRemove this call to a deprecated method, it has been marked for removal.(¼Ó¥€şÿÿÿÿ
+:
+java:S2129ß"Remove this "Long" constructor(£Êâ“ÿÿÿÿÿ
+d
+java:S5738ß"HRemove this call to a deprecated method, it has been marked for removal.(£Êâ“ÿÿÿÿÿ
+5
+java:S2129á"Remove this "Long" constructor(Í¡ß˜
+_
+java:S5738á"HRemove this call to a deprecated method, it has been marked for removal.(Í¡ß˜
+n
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ëŞ·íøÿÿÿÿ
+_
+java:S6201õ"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(©£Ø
+_
+java:S6201÷"HReplace this instanceof check and cast with 'instanceof Integer integer'(Áğ‚–
+Y
+java:S6201ˆ"BReplace this instanceof check and cast with 'instanceof Long long'(ˆÓ©Ÿ
+[
+java:S6201Š"DReplace this instanceof check and cast with 'instanceof Float float'(Áùñİ
+\
+java:S6201Œ"FReplace this instanceof check and cast with 'instanceof Double double'(Şï_
+]
+java:S6201ê"FReplace this instanceof check and cast with 'instanceof Number number'(ààç
+d
+java:S6201ò"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(±ÿºÇÿÿÿÿÿ
+@
+java:S1940ş")Use the opposite operator ("!=") instead.(Ò—âÏ
+@
+java:S1940ş")Use the opposite operator ("!=") instead.(Ò—âÏ
+P
+java:S1117ƒ"9Rename "value" which hides the field declared at line 94.(¤’Áä
+h
+java:S6201†"LReplace this instanceof check and cast with 'instanceof Character character'(¤…çÔıÿÿÿÿ
+<
+java:S2153‡"%Remove the unboxing from "Character".(ê¡±¾
+8
+java:S2129‡"!Remove this "Integer" constructor(ê¡±¾
+_
+java:S5738‡"HRemove this call to a deprecated method, it has been marked for removal.(ê¡±¾
+]
+java:S6201‰"FReplace this instanceof check and cast with 'instanceof Number number'(ààç
+c
+java:S6201•"LReplace this instanceof check and cast with 'instanceof Primitive primitive'(“î‰
+c
+java:S6201³"LReplace this instanceof check and cast with 'instanceof Primitive primitive'(“î‰
+=
+java:S1168Ë"&Return an empty array instead of null.(¥¹ï
+B
+java:S1905÷"&Remove this unnecessary cast to "int".(ıŒÿÍÿÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ãÇæÑùÿÿÿÿ
+M
+java:S5261Ó"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261â"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261ü"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+h
+java:S6201°"LReplace this instanceof check and cast with 'instanceof Character character'(¤…çÔıÿÿÿÿ
+<
+java:S2153±"%Remove the unboxing from "Character".(ê¡±¾
+8
+java:S2129±"!Remove this "Integer" constructor(ê¡±¾
+_
+java:S5738±"HRemove this call to a deprecated method, it has been marked for removal.(ê¡±¾
+:
+java:S2129¹"Remove this "Byte" constructor(ö¶³çûÿÿÿÿ
+d
+java:S5738¹"HRemove this call to a deprecated method, it has been marked for removal.(ö¶³çûÿÿÿÿ
+6
+java:S2129»"Remove this "Short" constructor(•Œ°Ì
+_
+java:S5738»"HRemove this call to a deprecated method, it has been marked for removal.(•Œ°Ì
+?
+java:S2129½"#Remove this "Character" constructor(§±˜òúÿÿÿÿ
+d
+java:S5738½"HRemove this call to a deprecated method, it has been marked for removal.(§±˜òúÿÿÿÿ
+=
+java:S2129¿"!Remove this "Integer" constructor(Üû¹°úÿÿÿÿ
+d
+java:S5738¿"HRemove this call to a deprecated method, it has been marked for removal.(Üû¹°úÿÿÿÿ
+5
+java:S2129Á"Remove this "Long" constructor(ÍŞÄé
+_
+java:S5738Á"HRemove this call to a deprecated method, it has been marked for removal.(ÍŞÄé
+5
+java:S2129Ã"Remove this "Float" constructor(ÀÚF
+^
+java:S5738Ã"HRemove this call to a deprecated method, it has been marked for removal.(ÀÚF
+<
+java:S2129Å" Remove this "Double" constructor(úÖÇ¸ùÿÿÿÿ
+d
+java:S5738Å"HRemove this call to a deprecated method, it has been marked for removal.(úÖÇ¸ùÿÿÿÿ

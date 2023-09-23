@@ -101,16 +101,12 @@ T
 $org/gjt/sp/jedit/ServiceManager.java,0\3\0304a7caa42dba95e6675ea9bd00785b5845ecad
 Q
 !macros/Clipboard/Paste_Indent.bsh,a\6\a6c61806ab8029de7c5e32a30cc807fda20640f0
-L
-org/gjt/sp/jedit/jedit.props,b\a\bac54ab0549d4b73b0f1adb555b3436176a6735c
 P
  macros/Editing/Mode_Switcher.bsh,d\4\d43afe4fcc209a3fea9779513a73b40187a0ad31
 R
 "macros/Editing/Move_Lines_Down.bsh,1\8\184608e61bcaaffb7a7bf6cc5ae1a4f04b90951d
 X
 (macros/Editing/Duplicate_Lines_Above.bsh,f\d\fd03926e02952910b4a322e9f12de31b490f1afd
-O
-org/gjt/sp/jedit/jedit.manifest,3\5\35b83edccdf46817db4139bee488088b1f3136bf
 >
 modes/swig.xml,7\3\730f0145bf6058da3d451adab7ff036a1f138943
 N
@@ -121,8 +117,6 @@ B
 modes/vbscript.xml,3\f\3f18e9d4d4e575307ef3566abb49b2246ee91a67
 V
 &org/gjt/sp/jedit/SettingsReloader.java,3\9\39dfe68cac64ba55972b51b1ef24a2e229287504
-P
- org/gjt/sp/jedit/jedit_gui.props,2\8\283aba1b5dd226e350969929e34e2e7ffebd4348
 X
 (macros/Editing/Duplicate_Lines_Below.bsh,c\e\ce80bbdd2945cb98301b4feb0e524b1435cc46f6
 Q
@@ -173,8 +167,6 @@ S
 #org/gjt/sp/util/PropertiesBean.java,2\0\209fbc6ab5e14008deeca7aa8b49df60657cbe48
 ?
 modes/occam.xml,f\6\f673dc0ada3d3aa278a151dae70cb50f33b24ebf
-O
-org/gjt/sp/util/StringList.java,a\c\acefb75abeb8c30cef8a0bbe5e6546c21cf732e0
 X
 (macros/Files/Browse_Buffer_Directory.bsh,7\3\730f67169f1e4743b278c0da998fdfe324bc64eb
 Q
@@ -347,12 +339,8 @@ C
 doc/tips/tip81.html,3\8\387e5e3864d69cd212a4dbcb1ff533066e0f59a4
 C
 doc/tips/tip43.html,c\b\cb0477bcc64bc1ecc624c6194f12a03bdc7a96de
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 C
 doc/tips/tip52.html,2\3\23201b3a612bed39b49934fec1783e75a9000814
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 C
 doc/tips/tip66.html,4\5\45401d408bbf203c4a63bf9bf99d1447a9ef7c2e
 C
@@ -666,8 +654,6 @@ U
 %package-files/linux/deb/jedit.desktop,9\8\982d87fed6569e07d02a9e8ffe73996434462016
 O
 macros/Misc/Make_Bug_Report.bsh,a\0\a02467933406c5d4fcea845f519cdcef592c13b1
-N
-package-files/linux/deb/postrm,d\9\d933e2b16a3c376209e8e8efc67c116543f805c5
 M
 package-files/linux/deb/jedit,3\b\3b534472242fbedeb5a9b2ea3ca8758d29140094
 ?
@@ -716,16 +702,12 @@ Q
 modes/rib.xml,4\b\4b369aa964935f53943b5caf1ce5a3fa27f2de7a
 =
 modes/nqc.xml,d\3\d3d3d1548c7a01da4a6eb23cf5d500a7d754e5c0
-Z
-*org/gjt/sp/jedit/menu/PluginsProvider.java,3\1\31fb70814d0fd68d68b38c4967d318910d30c942
 ^
 .org/gjt/sp/jedit/menu/RecentFilesProvider.java,5\8\5898ef88bc69efc75cc8769b368c0ebdad958bcb
 d
 4org/gjt/sp/jedit/menu/RecentDirectoriesProvider.java,6\1\61778b04253484b9abe806c296799f529c280268
 e
 5org/gjt/sp/jedit/menu/ReloadWithEncodingProvider.java,8\7\8773f43ffb6d70fa561aaa8a1eb8b4fba897a6e5
-R
-"org/gjt/sp/jedit/menu/package.html,2\1\21f6f61ffea2a9bb52bb771a8ce83412333cdafe
 G
 installer/install.props,5\a\5af09019238fe2a90fea2c37080974cce13a3784
 @
@@ -926,8 +908,6 @@ V
 &org/gjt/sp/jedit/bsh/commands/save.bsh,9\3\93fea1f0b60483e745e420f7735ebe964c32e639
 M
 installer/TarInputStream.java,3\f\3f9b806175a71d14dbc6c5105ea4674b04230ddb
-_
-/org/gjt/sp/jedit/bsh/commands/makeWorkspace.bsh,9\a\9a8f0c96380471e32c1b7825dea16be3f8e06b0b
 X
 (org/gjt/sp/jedit/bsh/commands/editor.bsh,5\5\550f66393a3d3c890bd78cc321875224b20a1aa4
 @
@@ -1042,8 +1022,6 @@ Q
 !org/gjt/sp/jedit/bsh/package.html,7\9\793461e9531871d3594a35a587809c60bfd27a1c
 >
 modes/tsql.xml,5\0\505b923f573a17d2ab0f1cab0dc8b66569237add
-U
-%org/jedit/localization/jedit_zh.props,4\1\41d217ce9363107d4062c77d44486f340ee3cee1
 U
 %org/jedit/localization/jedit_fr.props,e\1\e1403baf0331abc92ac6ce294944beedd5ec8b38
 O
@@ -1204,8 +1182,6 @@ a
 1org/gjt/sp/jedit/textarea/StandaloneTextArea.java,7\9\7902f13a82a1d0fd22ead6c3de88d329f07e47c3
 X
 (org/gjt/sp/jedit/textarea/Selection.java,e\3\e39446e41ed55c806f70d48b92de08d2c9ab8216
-M
-org/gjt/sp/jedit/services.xml,5\c\5cbeec3720622177c25bcf0faa61a4d1d65d7629
 K
 org/gjt/sp/jedit/recent.dtd,5\6\56ff3ce11706774f7a9dae44b30c78a4709ddf99
 ^
@@ -1236,8 +1212,6 @@ P
  org/gjt/sp/jedit/perspective.dtd,a\2\a2d890198268177ff583ccdc53ce2f6608c2339f
 =
 modes/url.xml,0\4\040a719e3f2d8d65d59dbfd244c1da777a82638e
-O
-org/gjt/sp/jedit/PluginJAR.java,2\1\213a9fde571b47f1f536ecc5e843b10cd1d4827c
 `
 0org/gjt/sp/jedit/textarea/TextAreaException.java,a\1\a1b77312bad566206352cc3e88a22a980724b19f
 `
@@ -1252,8 +1226,6 @@ W
 'org/gjt/sp/jedit/textarea/RangeMap.java,8\1\81de627389fb75db88da129d5b8461707a64b086
 S
 #org/gjt/sp/jedit/RegisterSaver.java,c\f\cf6dfa31ac7e31e7fce9f3aa0d85e27e319a2ecd
-J
-org/gjt/sp/jedit/View.java,e\7\e7497de1855d6d8aa7776dcce39c44eb0306dfa1
 V
 &org/gjt/sp/jedit/textarea/package.html,5\3\538e6a0234a10863c8e6eef7b249c85eb8622e9a
 X
@@ -1262,8 +1234,6 @@ X
 0org/gjt/sp/jedit/textarea/SquareFoldPainter.java,4\4\44b44cda375c638eb83230d63b4cd5d98210c62a
 f
 6org/gjt/sp/jedit/textarea/TextAreaTransferHandler.java,c\0\c074b18684a42411879520b5b087196879e48ada
-P
- org/gjt/sp/jedit/OptionPane.java,3\8\38818a486fd51ee3eb8f32e6705f96bb1f3d5a13
 _
 /org/gjt/sp/jedit/textarea/StructureMatcher.java,1\7\17f1cb573aed65b4f12d4bcf6c6f87aafadf7001
 S
@@ -1310,8 +1280,6 @@ b
 2org/gjt/sp/jedit/options/SaveBackupOptionPane.java,4\d\4d3f140be6e214960bc603ef647f9aeec6304457
 D
 modes/svn-commit.xml,6\3\63946dc0e6ff2822cd941b70f601cb106d2f17ea
-X
-(org/gjt/sp/jedit/browser/VFSBrowser.java,c\1\c152375c4d027d65792dc0edbaa3b2acef99bfd8
 U
 %org/gjt/sp/jedit/options/package.html,8\3\836b2b5e5b56f662d0955631df801319008a3de8
 U
@@ -1360,16 +1328,8 @@ S
 #org/gjt/sp/jedit/gui/ActionBar.java,8\5\85bf0c4404ff8da5ee30aebca40b49bda981fbc4
 S
 #org/gjt/sp/jedit/ActionContext.java,7\f\7f9e9f5f0ae699ac26073b36cbd713482c25cc98
-W
-'org/gjt/sp/jedit/ActionListHandler.java,d\9\d917b7f12f99bee8d4ffb95f4e34176e47e1f797
-L
-org/gjt/sp/jedit/actions.dtd,6\c\6c92f8ce821b212a63e3a756eecfbc6c93c9a917
-L
-org/gjt/sp/jedit/actions.xml,e\d\ede4a3abde693340e8929ba460616fec86791be3
 F
 modes/actionscript.xml,0\8\08e0c4a6d4aaff38d67159bb8c804d384b0475aa
-O
-org/gjt/sp/jedit/ActionSet.java,2\0\20457a8c5329a1ebe892e18728325e6c1dd47285
 P
  doc/users-guide/activity-log.xml,5\8\58c924701726281c1f72453002a5ffa1d636f57b
 =
@@ -1468,12 +1428,8 @@ d
 4org/gjt/sp/jedit/search/BoyerMooreSearchMatcher.java,d\4\d444acba8f7c2632169b088cd5c93d8bb27af1fa
 ^
 .org/gjt/sp/jedit/indent/BracketIndentRule.java,e\0\e08d56a23a32bfa59481f2012d114b4275dad6b0
-T
-$org/gjt/sp/jedit/browser.actions.xml,d\0\d0ea95a2e59361738378566cc37f7b53601eb407
 e
 5org/gjt/sp/jedit/options/BrowserColorsOptionPane.java,f\3\f38ecaaee1d85c43f79973fd5c638fd798c01c5e
-a
-1org/gjt/sp/jedit/browser/BrowserCommandsMenu.java,a\4\a4de8ec719093af7e6e9289dde242f2f6f4a43bf
 f
 6org/gjt/sp/jedit/options/BrowserContextOptionPane.java,e\4\e409521dfc281a5cf61f0653678120fad4482f9e
 ]
@@ -1782,8 +1738,6 @@ V
 &org/gjt/sp/jedit/bsh/commands/dir.java,5\4\54a07ef730fdc48932ce42120217bea1227ad612
 ]
 -org/gjt/sp/jedit/search/DirectoryListSet.java,b\3\b3deee8056accc3d2fdd4f32f26b8df283133a36
-\
-,org/gjt/sp/jedit/menu/DirectoryProvider.java,7\5\75d9ed7727ac8cf6c4cffff0e0b6b7439916a53c
 l
 <org/gjt/sp/jedit/bsh/classpath/DiscreteFilesClassLoader.java,5\a\5a0812cb451320a19dfa88762f2bfd6773ce86dd
 ]
@@ -1846,10 +1800,6 @@ c
 3org/gjt/sp/jedit/gui/DynamicContextMenuService.java,3\f\3f63f03326411bee170b146e3f957bfbc203b273
 \
 ,org/gjt/sp/jedit/msg/DynamicMenuChanged.java,2\f\2f527010c42e558b81c343b47e667b3aff067053
-^
-.org/gjt/sp/jedit/menu/DynamicMenuProvider.java,b\3\b3d1fd9db2699f683d17156c2797d0d34a3776d9
-Q
-!org/gjt/sp/jedit/EBComponent.java,4\2\4272c9adc749937f225eb1db3153baf12b1d9d1f
 O
 org/gjt/sp/jedit/EBMessage.java,b\0\b09cd81a60350c530fbaf16deeea411532f28f2b
 N
@@ -1875,8 +1825,6 @@ N
 X
 (org/gjt/sp/jedit/msg/EditPaneUpdate.java,3\2\3286e501fc0d63d6c73eb61de285d3368a824bd0
 P
- org/gjt/sp/jedit/EditPlugin.java,3\8\38d519e25560fab0c991fb7a4da6fdd334458def
-P
  org/gjt/sp/jedit/EditServer.java,4\b\4b35ef649a6fe04d87064458cc6331cee261b169
 @
 modes/eiffel.xml,d\6\d6929d54ca55621755c7149f63381f079dc6cd79
@@ -1900,14 +1848,8 @@ X
 (org/gjt/sp/jedit/io/EncodingWithBOM.java,1\b\1bb021a06e769673c41dc8b7178883814dce3f31
 X
 (org/gjt/sp/jedit/gui/EnhancedButton.java,4\9\49e4da9f51c33fdfd1000d3fdb8505d03432509d
-c
-3org/gjt/sp/jedit/menu/EnhancedCheckBoxMenuItem.java,3\d\3d7bf1dfecc2b15a9dcf1b956e79ffbb5433e6ee
 X
 (org/gjt/sp/jedit/gui/EnhancedDialog.java,7\4\74a369ca5993a89c4fab3a7fc995756e4448e9b4
-W
-'org/gjt/sp/jedit/menu/EnhancedMenu.java,a\a\aa1990bb3d2f4cbe479177f040ac60d3cf10eb2a
-[
-+org/gjt/sp/jedit/menu/EnhancedMenuItem.java,c\f\cf11fafe92beb54a6794273af7552d921e78af20
 ]
 -org/gjt/sp/util/EnhancedTreeCellRenderer.java,e\d\ed13675ca14528af228254b81cf490d10f552838
 @
@@ -2028,8 +1970,6 @@ W
 modes/gradle.xml,9\2\92f073783f49ccf8031b83bd2a1374f9259d2988
 @
 modes/groovy.xml,f\0\f07c1d7cc991b11742ecf53214290a1dbb5eed63
-R
-"org/gjt/sp/jedit/GUIUtilities.java,1\9\19f7e889d188c959e4a7580ea1c6c292de722e7a
 U
 %org/gjt/sp/jedit/textarea/Gutter.java,4\f\4f089967f33e74e14d134b820213598c32f4862d
 ^
@@ -2224,8 +2164,6 @@ X
 0org/gjt/sp/jedit/datatransfer/JEditRichText.java,e\9\e9172eb6b9120ea4b50b3d64f18b71d6ca63c22d
 a
 1org/gjt/sp/jedit/gui/tray/JEditSwingTrayIcon.java,a\5\a5b485b4b48e73022f6798b250b9ddd062f8cb61
-\
-,org/gjt/sp/jedit/textarea/JEditTextArea.java,6\2\6253428c0def88c6a3fa45b7849504d0a4fc5e7a
 d
 4org/gjt/sp/jedit/datatransfer/JEditTransferable.java,5\c\5c1704fec97321d9f223fe6d290251693b98141f
 k
@@ -2354,8 +2292,6 @@ V
 modes/maven.xml,f\8\f814c83643c9615fb6e334fc63653d75b4781ae8
 m
 =org/gjt/sp/jedit/gui/statusbar/MemoryStatusWidgetFactory.java,5\f\5fa42e44249c56dc22b798e54b484f4c584b7e47
-a
-1org/gjt/sp/jedit/menu/MenuItemTextComparator.java,9\1\91f75942c2d412baacef35c1532b140fb60eda7e
 T
 $org/jedit/core/MigrationService.java,2\e\2e4c65fe991749bbd6862da6e0d96d3d2740b84c
 Z

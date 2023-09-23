@@ -1,0 +1,37 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àüµùÿÿÿÿ
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àüµùÿÿÿÿ
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àüµùÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ü”Şß
+V	java:S125M"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117„">Rename "listeners" which hides the field declared at line 345.(–±ªÎ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S1117Ö"<Rename "buffers" which hides the field declared at line 344.(–£ßk
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117…">Rename "listeners" which hides the field declared at line 345.(–±ªÎ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117¹">Rename "listeners" which hides the field declared at line 345.(–±ªÎ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117Í">Rename "listeners" which hides the field declared at line 345.(–±ªÎ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125İ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

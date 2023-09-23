@@ -1,0 +1,47 @@
+
+K
+java:S3740Σ"/Provide the parametrized type for this generic.(ίΥ―Ζϊÿÿÿÿ
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΓΛε
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ζΖθϊÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125D"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+_
+java:S6355‡"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(υϊ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(±®–„
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1117†":Rename "props" which hides the field declared at line 528.(ξοζΈ
+h
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹ÿεB
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+O
+java:S3878β"8Remove this array creation and simply pass the elements.(Ο΄―π
+W	java:S125ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+T
+java:S3878ÿ"8Remove this array creation and simply pass the elements.(«¥Ύτωÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125—"<This block of commented-out lines of code should be removed.(έςσ±

@@ -1,0 +1,26 @@
+
+J
+java:S3740M"/Provide the parametrized type for this generic.(î”£ûùÿÿÿÿ
+J
+java:S3740M"/Provide the parametrized type for this generic.(î”£ûùÿÿÿÿ
+\
+java:S1192R"FDefine a constant instead of duplicating this literal "comp." 4 times.(™â¸‹
+E
+java:S1066W"/Merge this if statement with the enclosing one.(Áğº…
+e	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çó¹1
+€
+java:S1149M"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(î”£ûùÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ûâëúÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¯ÿÂì
+N	java:S106("9Replace this use of System.out or System.err by a logger.(”™’æ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÚÂâ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ó ÍØ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¨¸Æûÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÚÂâ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(¾ñİ£øÿÿÿÿ
+M	java:S106O"9Replace this use of System.out or System.err by a logger.(ùÑ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¯Úæ
+M	java:S106i"9Replace this use of System.out or System.err by a logger.(Çú­
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(œ¼¿‡
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(°ù¼ˆùÿÿÿÿ

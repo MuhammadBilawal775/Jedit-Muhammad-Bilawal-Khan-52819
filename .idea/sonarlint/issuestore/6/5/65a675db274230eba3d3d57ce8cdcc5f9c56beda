@@ -1,0 +1,40 @@
+
+o
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ§“Á
+o
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ§“Á
+]
+java:S1192;"GDefine a constant instead of duplicating this literal ".label" 5 times.(˜½á¡
+_
+java:S1192;"IDefine a constant instead of duplicating this literal "options." 5 times.(˜½á¡
+j
+java:S1192n"TDefine a constant instead of duplicating this literal "NO LABEL PROPERTY: " 4 times.(ðþ‘Ÿ
+{
+java:S1149,"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Üùóï
+Q	java:S125."<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+T
+java:S1117m"9Rename "label" which hides the field declared at line 43.(§™‰áÿÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+T
+java:S1117w"9Rename "label" which hides the field declared at line 43.(§™‰áÿÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1117¬"9Rename "label" which hides the field declared at line 43.(ÉŽã™
+j
+java:S6201­"NReplace this instanceof check and cast with 'instanceof OptionPane optionpane'(¹ñÓ“ÿÿÿÿÿ
+T
+java:S1117¯"8Rename "name" which hides the field declared at line 42.(è²žÇùÿÿÿÿ
+l
+java:S6201º"PReplace this instanceof check and cast with 'instanceof OptionGroup optiongroup'(†üçÿÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(Ýòó±

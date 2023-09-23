@@ -1,0 +1,102 @@
+
+F
+java:S3740Ó"/Provide the parametrized type for this generic.(íÓæó
+F
+java:S3740Ó"/Provide the parametrized type for this generic.(íÓæó
+K
+java:S3740ß"/Provide the parametrized type for this generic.(×‘šùÿÿÿÿ
+F
+java:S3740ê"/Provide the parametrized type for this generic.(Ş²¨Õ
+F
+java:S3740•"/Provide the parametrized type for this generic.(ÃË–è
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÆ¥Î
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯íİ¡
+C
+java:S1604T"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+?
+java:S1604¹"(Make this anonymous inner class a lambda(ĞéÉï
+D
+java:S1604„"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+b
+java:S1301‹"KReplace this "switch" statement by "if" statements to increase readability.(ñšƒ÷
+^
+java:S3973ı"GUse indentation to denote the code conditionally executed by this "if".(èµğ
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125p"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(éúÇ†
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ı"<This block of commented-out lines of code should be removed.(•çÕ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(İòó±
+
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÊ° şÿÿÿÿ
+˜
+java:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ĞÃÀ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(İòó±
+e
+java:S6201º"IReplace this instanceof check and cast with 'instanceof VFSFile dirEntry'(ÁÒ¶úÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+`
+java:S6201Õ"IReplace this instanceof check and cast with 'instanceof VFSFile dirEntry'(—¼¥²
+P
+java:S1874ï"4Remove this use of "getModifiers"; it is deprecated.(½¨€¿ıÿÿÿÿ
+`
+java:S6201÷"IReplace this instanceof check and cast with 'instanceof VFSFile dirEntry'(—¼¥²
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+8	java:S131‹""Add a default case to this switch.(ñšƒ÷
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+K
+java:S1874¼"4Remove this use of "getModifiers"; it is deprecated.(±Ùô
+K
+java:S1874¼"4Remove this use of "BUTTON1_MASK"; it is deprecated.(±Ùô
+P
+java:S1874Ã"4Remove this use of "getModifiers"; it is deprecated.(¤Î³Áşÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Õ¼‘…úÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+K
+java:S1874é"4Remove this use of "getModifiers"; it is deprecated.(‰ÙÏº
+8
+java:S1116ì"Remove this empty statement.(¿‡öƒøÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Y
+java:S2094’"BRemove this empty class, write its code or make it an "interface".(ôü®„
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(±óÃ
+8	java:S131""Add a default case to this switch.(ÿéÓî
+P
+java:S1874¦"4Remove this use of "getModifiers"; it is deprecated.(÷ÃÓ¾üÿÿÿÿ
+L
+java:S1874¦"0Remove this use of "ALT_MASK"; it is deprecated.(÷ÃÓ¾üÿÿÿÿ
+P
+java:S1874®"4Remove this use of "getModifiers"; it is deprecated.(÷ÃÓ¾üÿÿÿÿ
+L
+java:S1874®"0Remove this use of "ALT_MASK"; it is deprecated.(÷ÃÓ¾üÿÿÿÿ
+K
+java:S1874·"4Remove this use of "getModifiers"; it is deprecated.(¶•ê
+I
+java:S1874·"2Remove this use of "SHIFT_MASK"; it is deprecated.(¶•ê
+`
+java:S6201Ô"IReplace this instanceof check and cast with 'instanceof VFSFile dirEntry'(—¼¥²
+W	java:S125á"<This block of commented-out lines of code should be removed.(Éí«úÿÿÿÿ
+8	java:S131ù""Add a default case to this switch.(İˆ¬†

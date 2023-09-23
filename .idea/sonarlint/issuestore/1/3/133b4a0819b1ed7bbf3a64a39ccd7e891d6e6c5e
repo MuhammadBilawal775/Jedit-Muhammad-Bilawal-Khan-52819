@@ -1,0 +1,49 @@
+
+E
+java:S3740+"/Provide the parametrized type for this generic.(À‰Æ
+J
+java:S3740;"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿ
+E
+java:S3740M"/Provide the parametrized type for this generic.(ğ–’Õ
+n
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(üœã{
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¶èÉüÿÿÿÿ
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¦æõ
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(³·œ¶
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üäöæøÿÿÿÿ
+C
+java:S1604k"(Make this anonymous inner class a lambda(«°­ıÿÿÿÿ
+A
+java:S19480"+Make "delegated" transient or serializable.(ÃÑ¬ã
+{
+java:S11492"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Úä×
+|
+java:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³·œ¶
+V	java:S125C"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+z
+java:S1149v"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(üœã{
+^
+java:S1117w"CRename "invertedIndices" which hides the field declared at line 55.(½¶èÉüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+B
+java:S1168¤"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168§"+Return an empty collection instead of null.(¥¹ï
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

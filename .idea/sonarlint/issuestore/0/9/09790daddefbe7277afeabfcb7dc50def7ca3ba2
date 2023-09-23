@@ -1,0 +1,25 @@
+
+E
+java:S3740,"/Provide the parametrized type for this generic.(Î ˜
+E
+java:S3740<"/Provide the parametrized type for this generic.(øàÚ§
+E
+java:S3740R"/Provide the parametrized type for this generic.(¨‚ˆö
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ò³ş
+{
+java:S1149,"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Î ˜
+{
+java:S1149<"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(øàÚ§
+{
+java:S1149>"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«ò³ş
+{
+java:S1149R"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨‚ˆö
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125'"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+a
+java:S6201J"FReplace this instanceof check and cast with 'instanceof String string'(ÒÉĞ¿úÿÿÿÿ
+^
+java:S6201P"IReplace this instanceof check and cast with 'instanceof Vector subvector'(æÓëz
+V	java:S125d"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
