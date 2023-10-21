@@ -63,7 +63,7 @@ public class HtmlUtilities
 		}
 		catch (Exception e)
 		{
-			style = "color:#000000";
+			style = "color:#0000FF";
 			s = SyntaxUtilities.parseStyle(style, f.getFamily(), f.getSize(), true);
 		}
 		return s;

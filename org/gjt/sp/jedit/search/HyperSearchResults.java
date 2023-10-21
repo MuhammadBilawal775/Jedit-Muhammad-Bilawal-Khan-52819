@@ -32,6 +32,8 @@ import java.awt.datatransfer.*;
 import java.awt.event.*;
 import java.util.*;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.gjt.sp.jedit.EditBus.EBHandler;
 import org.gjt.sp.jedit.gui.DefaultFocusComponent;
@@ -55,7 +57,7 @@ import org.gjt.sp.util.TaskManager;
 public class HyperSearchResults extends JPanel implements DefaultFocusComponent
 {
 	public static final String NAME = "hypersearch-results";
-	public static final String HIGHLIGHT_PROP = "hypersearch.results.highlight";
+	public static final String HIGHLIGHT_PROP = "hypersearch.results.highlight1";
 
 	//{{{ HyperSearchResults constructor
 	public HyperSearchResults(View view)
@@ -561,6 +563,17 @@ public class HyperSearchResults extends JPanel implements DefaultFocusComponent
 		{
 			String s = super.convertValueToText(value, selected, expanded, leaf,
 				row, hasFocus);
+		//2nd Change Request
+			if (containsComment(s) )
+			{
+				return "<html><span style=\"background-color: #00FF00;\">" + s + "</span></html>";
+			}
+			if(containsJavaCode(s))
+			{
+				return "<html><span style=\"background-color: #FF0000;\">" + s + "</span></html>";
+			}
+			//2nd Change Request
+
 			String newProp = jEdit.getProperty(HIGHLIGHT_PROP);
 			if (newProp == null || newProp.isEmpty())
 				return s;
@@ -608,7 +621,37 @@ public class HyperSearchResults extends JPanel implements DefaultFocusComponent
 			}
 			return HtmlUtilities.highlightString(s, styleTag, matches);
 		}
-	} //}}}
+	}
+	//}}}
+	//Change Request 2
+	public boolean containsJavaCode(String s) {
+		// Define a list of Java keywords and common patterns
+		String[] javaKeywords = {"public", "class", "void", "if", "else", "while", "for", "int", "String", "return"};
+		String javaPattern = "\\b(" + String.join("|", javaKeywords) + ")\\b"; // Regular expression pattern
+
+		// Check for the presence of Java code
+		if (s.matches(".*" + javaPattern + ".*")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public boolean containsComment(String s) {
+		// Regular expression pattern to match single-line and multi-line comments
+		String commentPattern = "//[^\\n]*|/\\*(.|\\n)*?\\*/";
+
+		// Create a Pattern object
+		Pattern pattern = Pattern.compile(commentPattern);
+
+		// Create a Matcher object
+		Matcher matcher = pattern.matcher(s);
+
+		// Check if any comments are found
+		return matcher.find();
+	}
+	//ChangeRequest 2
+
 
 	//{{{ KeyHandler class
 	class KeyHandler extends KeyAdapter

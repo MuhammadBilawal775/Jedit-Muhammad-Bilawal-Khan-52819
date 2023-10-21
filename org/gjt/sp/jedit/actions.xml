@@ -108,11 +108,7 @@
 
 <ACTION NAME="VisitWebsite">
 	<CODE>
-		try {
-		java.awt.Desktop.getDesktop().browse(new java.net.URI("https://sourceforge.net/p/jedit/bugs/"));
-		} catch (Exception ex) {
-		ex.printStackTrace();
-		}
+		jEdit.SubmitBug();
 	</CODE>
 </ACTION>
 <ACTION NAME="closeall-bufferset">
