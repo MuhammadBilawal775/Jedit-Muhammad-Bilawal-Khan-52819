@@ -28,6 +28,10 @@ import javax.swing.*;
 
 import java.awt.*;
 import java.awt.event.*;
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.HashMap;
@@ -393,6 +397,7 @@ public class SearchDialog extends EnhancedDialog
 		EditBus.addToBus(this);
 	} //}}}
 
+
 	//{{{ createFindLabelAndField() method
 	private void createFindLabelAndField(JPanel fieldPanel,
 		GridBagConstraints cons)
@@ -683,6 +688,7 @@ public class SearchDialog extends EnhancedDialog
  			"search.subdirs"));
  		String mnemonic = jEdit.getProperty(
 			"search.subdirs.mnemonic");
+
 		searchSubDirectories.setMnemonic(mnemonic.charAt(0));
 		searchSubDirectories.setSelected(jEdit.getBooleanProperty("search.subdirs.toggle"));
 		skipHidden = new JCheckBox(jEdit.getProperty("search.skipHidden"));
@@ -1202,7 +1208,61 @@ public class SearchDialog extends EnhancedDialog
 		{
 			return components.size() > 0 ? components.get(components.size() - 1) : null;
 		}
-	} //}}}
+	}
+	//}}}
 	
 	//}}}
+	public class DateFieldCreator {
+
+		private static final String DATE_FORMAT = "dd-MM-yyyy";
+
+
+
+		public static JFormattedTextField createDateField(String initialValue) {
+			SimpleDateFormat dateFormat = new SimpleDateFormat(DATE_FORMAT);
+			JFormattedTextField dateField = new JFormattedTextField(dateFormat);
+			dateField.setColumns(10);
+			try {
+				dateField.setValue(dateFormat.parse(initialValue));
+			} catch (ParseException e) {
+				e.printStackTrace();
+			}
+			return dateField;
+		}
+
+		public static JLabel createLabel(String text) {
+			return new JLabel(text);
+		}
+
+		public static PropertyChangeListener createPropertyChangeListener(String propertyName, JFormattedTextField fromDateField) {
+			return new PropertyChangeListener() {
+				@Override
+				public void propertyChange(PropertyChangeEvent evt) {
+					// Update the "To" field when the "From" field changes
+					// Assuming jEdit is an instance variable or is accessible
+					jEdit.setProperty(propertyName, fromDateField.getText());
+				}
+			};
+		}
+
+
+		public static void main(String[] args) {
+			JPanel dirCheckBoxPanel = new JPanel();
+
+			JLabel fromLabel = createLabel("From :");
+			JFormattedTextField fromDateField = createDateField("01-01-1999");
+			JLabel toLabel = createLabel("To:");
+			JFormattedTextField toDateField = createDateField("01-01-2024");
+
+			dirCheckBoxPanel.add(fromLabel);
+			dirCheckBoxPanel.add(fromDateField);
+			dirCheckBoxPanel.add(toLabel);
+			dirCheckBoxPanel.add(toDateField);
+
+			fromDateField.addPropertyChangeListener("value", createPropertyChangeListener("fromModified", fromDateField));
+			toDateField.addPropertyChangeListener("value", createPropertyChangeListener("toModified", toDateField));
+		}
+
+	}
+
 }

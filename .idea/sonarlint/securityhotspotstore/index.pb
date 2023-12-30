@@ -33,8 +33,6 @@ Z
 -org/gjt/sp/jedit/search/CurrentBufferSet.java,e\b\eb17b673a9ea02bc121a3ca5157901acdf7c47a5
 b
 2org/gjt/sp/jedit/search/HyperSearchFolderNode.java,f\6\f6b4dba9dd699c3fde06da2df78eaefb922110fb
-Y
-)org/gjt/sp/jedit/search/SearchDialog.java,1\2\12ee500c660367f515e828f1541f14e07c56ef40
 _
 /org/gjt/sp/jedit/search/HyperSearchRequest.java,3\2\32a84df19078cf452b83e4023592604a77d3a033
 D
@@ -803,8 +801,6 @@ G
 doc/COPYING.PLUGINS.txt,9\9\99c6d7f7e56459645fa78b83333420c303acbc8a
 >
 doc/README.txt,9\9\996d49e4ea3b02ca024d98f21f4c89352bcbae68
-<
-doc/TODO.txt,a\4\a494b75e56dd0ef414715a07a56ea4058dbd71e6
 S
 #macros/Text/Single_Space_Buffer.bsh,0\0\00249129e1bde9a1985ab1e23c3d8dc4849142d4
 G
@@ -1968,8 +1964,6 @@ _
 /org/gjt/sp/jedit/pluginmgr/KeyboardCommand.java,d\2\d2692eed032ddf2935802e7867da984750123691
 a
 1org/gjt/sp/jedit/pluginmgr/MirrorListHandler.java,f\a\fad67ccb1745b187880748bf1b00b41a97d0f101
-L
-org/gjt/sp/jedit/io/VFS.java,0\6\06aba58d48d6152bb4f50a9d3546c8c4b463d052
 W
 'org/gjt/sp/jedit/io/CopyFileWorker.java,d\0\d08bcb8b6aa7e6d0e3d5c26f1037ace575e021c5
 Z
@@ -5740,3 +5734,23 @@ M
 org/gjt/sp/jedit/package.html,3\3\33ef635e1f6b4aeee78e9a12baf0fc563417e6fa
 V
 &org/gjt/sp/jedit/pluginmgr/plugins.dtd,1\0\10c13332fca3db8acf2511df7f382cbfba515444
+Z
+*org/gjt/sp/jedit/search/SearchMatcher.java,e\6\e6f150fbe7903a52c0ffeccb671249ed15282935
+^
+.org/gjt/sp/jedit/search/HyperSearchResult.java,e\6\e6e944b7d9ef0e312a459e9c03820e9bb2d6295b
+K
+org/gjt/sp/jedit/jEdit.java,e\8\e86a677877604f2fb913c01d5b5f40bfffc738f4
+X
+(org/gjt/sp/jedit/ServiceListHandler.java,6\6\66804c3921c8ee0ed5fef3a5e8457730145a9b93
+_
+/org/gjt/sp/jedit/search/HyperSearchResults.java,3\e\3eebc29734c06490bb1d382dc42ba88d909d2c49
+L
+org/gjt/sp/jedit/jedit.props,b\a\bac54ab0549d4b73b0f1adb555b3436176a6735c
+R
+"org/gjt/sp/util/HtmlUtilities.java,e\9\e949bcbd0cdd88a2a44a25132095b5b16d1c286f
+L
+org/gjt/sp/jedit/actions.xml,e\d\ede4a3abde693340e8929ba460616fec86791be3
+E
+Plugins/src/Main.java,1\4\1468cbbc742d8dcf6de8cddf8b7aff28a443b56c
+<
+doc/TODO.txt,a\4\a494b75e56dd0ef414715a07a56ea4058dbd71e6

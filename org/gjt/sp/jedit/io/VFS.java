@@ -21,6 +21,11 @@
  */
 
 package org.gjt.sp.jedit.io;
+import java.io.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 
 //{{{ Imports
 import java.awt.Color;
@@ -534,6 +539,10 @@ public abstract class VFS
 			view,buffer,session,this,path));
 		return true;
 	} //}}}
+
+
+
+
 
 	//{{{ copy() methods
 	/**
@@ -1330,4 +1339,5 @@ public abstract class VFS
 	} //}}}
 
 	//}}}
+
 }
